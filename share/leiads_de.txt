@@ -1,0 +1,621 @@
+﻿[leiads language file]
+
+# TRANSLATOR_CREDITS
+NULL  //"Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>"
+
+# COMMENTS
+"Zur Steuerung von Audio-Netzwerkspielern"
+
+# LICENSE
+"Leia ist freie Software. Sie können es unter den "
+"Bedingungen der GNU General Public License, wie "
+"von der Free Software Foundation veröffentlicht, "
+"weitergeben und/oder modifizieren, entweder gemäß "
+"Version 3 der Lizenz oder (nach Ihrer Option) jeder "
+"späteren Version.\n"
+"\n"
+"Die Veröffentlichung dieses Programms erfolgt in der "
+"Hoffnung, daß es Ihnen von Nutzen sein wird, aber "
+"OHNE IRGENDEINE GARANTIE, sogar ohne die "
+"implizite Garantie der MARKTREIFE oder der "
+"VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK.\n"
+"\n"
+"Details finden Sie in der GNU General Public License:\n"
+"http://www.gnu.org/licenses/\n"
+"\n"
+"(This translation of the GPL is informal, and not "
+"officially approved by the Free Software Foundation "
+"as valid. To be completely sure of what is permitted, "
+"refer to the original GPL in English.)"
+
+# MENU_FILE
+"Datei"
+# MENU_QUIT
+"Beenden"
+# MENU_VIEW
+"Ansicht"
+# MENU_TOOLS
+"Extras"
+# MENU_INFO
+"Info..."
+# MENU_ABOUT
+"Über Leia..."
+
+# BROWSER
+"Bibliothek"
+# PLAYLIST
+"Wiedergabeliste"
+# NOW_PLAYING
+"Aktueller Titel"
+# MEDIA_PLAY
+"Wiedergabe"
+# MEDIA_PAUSE
+"Pause"
+# MEDIA_STOP
+"Stopp"
+# MEDIA_PREVIOUS
+"Vorheriger Titel"
+# MEDIA_NEXT
+"Nächster Titel"
+# MUTE
+"Stumm"
+# QUIET
+"Leise"
+# LOUD
+"Laut"
+# VOLUME
+"Lautstärke"
+# VOLUME_MINUS
+"Lautstärke -"
+# VOLUME_PLUS
+"Lautstärke +"
+# VOLUME_INFO
+"Lautstärke %d"
+
+# SEARCHING_SERVER
+"Suche Musik-Server"
+# SEARCHING_RENDERER
+"Suche Netzwerkspieler"
+# SEARCHING_SERVER_AND_RENDERER
+"Suche Musik-Server und Netzwerkspieler"
+# NO_SERVER_FOUND
+"Keinen Musik-Server gefunden"
+# NO_RENDERER_FOUND
+"Keinen Netzwerkspieler gefunden"
+# NO_SERVER_AND_RENDERER_FOUND
+"Keinen Musik-Server und keinen Netzwerkspieler gefunden"
+# SET_AS_DEFAULT
+"Auswahl als Standard festlegen"
+
+# INFO
+"Info"
+# INFO_FRIENDLY_NAME
+"Name"
+# INFO_MODEL_NAME
+"Modellname"
+# INFO_MODEL_NUMBER
+"Modellnummer"
+# INFO_SERIAL_NUMBER
+"Seriennummer"
+# INFO_MANUFACTURER
+"Hersteller"
+# INFO_URL
+"URL"
+# INFO_IP_ADDRESS
+"IP-Adresse"
+# INFO_MAC_ADDRESS
+"MAC-Adresse" // "Physikalische Adresse"
+# INFO_PRODUCT_ID
+"Produkt-ID"
+# INFO_SOFTWARE_VERSION
+"Software-Version"
+# INFO_HARDWARE_VERSION
+"Hardware-Version"
+
+# BROWSER_MEDIA_SERVERS
+"Medien-Server"
+# BROWSER_OPENING
+"Lese"
+# BROWSER_GO_BACK
+"Zurück"
+# BROWSER_POPUP_MENU
+"Kontextmenü anzeigen"
+# BROWSER_OPEN
+"Öffnen"
+# BROWSER_REPLACE_PLAYLIST
+"Wiedergabeliste ersetzen"
+# BROWSER_APPEND_TO_PLAYLIST
+"Zur Wiedergabeliste hinzufügen"
+# BROWSER_SET_CHANNEL
+"Als Radiosender abspielen"
+# BROWSER_REPLACE_PLAYLIST_QUESTION
+"Wiedergabeliste ersetzen?"
+# BROWSER_CHANNEL_SET
+"Radiosender \"%s\" eingestellt"
+# BROWSER_LOCAL_FOLDER
+"Lokales Verzeichnis"
+
+# PLAYLIST_REPLACED
+"Wiedergabeliste ersetzt durch \"%s\""
+# PLAYLIST_ADDED
+"\"%s\" zur Wiedergabeliste hinzufügt"
+# PLAYLIST_CLEAR
+"Leeren"
+# PLAYLIST_CLEAR_QUESTION
+"Wiedergabeliste leeren?"
+# PLAYLIST_CLEARED
+"Wiedergabeliste geleert"
+# PLAYLIST_SHUFFLE
+"Verwuseln"
+# PLAYLIST_SHUFFLE_QUESTION
+"Wiedergabeliste verwuseln?"
+# PLAYLIST_LOAD
+"Laden..."
+# PLAYLIST_SAVE_AS
+"Speichern als..."
+# PLAYLIST_LOAD_CAPTION
+"Wiedergabeliste laden"
+# PLAYLIST_SAVE_CAPTION
+"Wiedergabeliste speichern"
+# PLAYLIST_FILTER_NAME
+"Wiedergabelisten"
+# PLAYLIST_FILTER_NAME_1
+"%s Wiedergabelisten"
+# PLAYLIST_PLAY
+"Titel wiedergeben"
+# PLAYLIST_MOVE_UP
+"Titel nach oben verschieben"
+# PLAYLIST_MOVE_DOWN
+"Titel nach unten verschieben"
+# PLAYLIST_DELETE
+"Titel entfernen"
+# PLAYLIST_DELETE_QUESTION
+"Aktuellen Titel entfernen?"
+# PLAYLIST_NOT_A_VALID_FILE
+"Kein gültige Wiedergabelisten-Datei"
+# PLAYLIST_TRACKS_NOT_ADDED
+"%d Titel wurden nicht zur Wiedergabeliste hinzugefügt, da der dazugehörige Server nicht verfügbar ist."
+# PLAYLIST_READING
+"Lese Wiedergabeliste"
+# PLAYLIST_SHUFFLING
+"Verwusele Wiedergabeliste"
+# PLAYLIST_LOADING
+"Lade Wiedergabeliste"
+# PLAYLIST_SAVED
+"Wiedergabeliste \"%s\" gespeichert"
+# PLAYLIST_INFO
+"Da auf diese Weise gespeicherte Wiedergabelisten nur solange gültig sind, "
+"bis Sie die Datenbank Ihres Medien-Servers neu erstellen, "
+"sollte dieses Feature nur für temporäre Wiedergabelisten verwendet werden!\n\n"
+"Um dauerhafte Wiedergabelisten anzulegen, "
+"verwenden Sie besser die dafür vorgesehenen Funktionen Ihres Medien-Servers.",
+# PLAYLIST_REPEAT_MODE
+"Wiederholmodus"
+# PLAYLIST_SHUFFLE_PLAY
+"Zufällige Abspielfolge"
+# PLAYLIST_NO_TOOLBAR
+"- keine -"
+# PLAYLIST_LEFT_TOOLBAR
+"links"
+# PLAYLIST_RIGHT_TOOLBAR
+"rechts"
+
+# NOW_PLAYING_EOP
+"Ende der Wiedergabeliste"
+
+# DC_TITLE
+"Titel"
+# DC_CREATOR
+"Urheber"
+# UPNP_ARTIST
+"Künstler"
+# UPNP_ALBUM
+"Album"
+# UPNP_GENRE
+"Genre"
+# DC_DATE
+"Datum"
+# DC_YEAR
+"Jahr"
+# UPNP_ORIGINAL_TRACK_NUMBER
+"Original Titelnummer"
+# UPNP_COMPOSER
+"Komponist"
+# RES_DURATION
+"Dauer"
+# UNKNOWN
+"- unbekannt -"
+
+# TRANSPORT_STATE_BUFFERING
+"Puffere..."
+# TRANSPORT_STATE_PAUSED
+"Pause"
+# TRANSPORT_STATE_PLAYING
+"Spiele ab"
+# TRANSPORT_STATE_TRANSITIONING
+"Übergang..."
+# TRANSPORT_STATE_STOPPED
+"Gestoppt"
+
+# SERVER_RESCAN
+"Medienverzeichnisse neu lesen"
+# SERVER_RESTART
+"Server Neustart"
+# SERVER_REBUILD
+"Datenbank neu erstellen"
+# SERVER_REBUILD_QUESTION
+"Sind Sie sicher, daß Sie die Datenbank des Medienservers \"%s\" neu erstellen wollen?"
+# SERVER_REBUILD_QUESTION_X
+"Bitte beachten Sie, daß dadurch alle mit Leia gespeicherten Wiedergabelisten, "
+"die auf diesen Medienserver verweisen, unbrauchbar werden!"
+
+# QUOTED
+"\"%s\""
+# WLAN_CONNECTING
+"Verbinde"
+# TOGGLE_FULLSCREEN
+"Vollbildmodus ändern"
+# TOGGLE_MUTE
+"Stummschaltung ändern"
+# CLEAR_PLAYLIST
+"Wiedergabeliste leeren"
+# QUIT_APPLICATION
+"Anwendung beenden"
+# PRESENTATION_URL
+"Präsentationsseite"
+# MANUFACTURER_URL
+"Herstellerseite"
+
+# RADIO
+"Internet Radio"
+# RADIO_NEW
+"Neuer Radio-Sender"
+# RADIO_EDIT
+"Radio-Sender bearbeiten"
+# RADIO_ALBUM_ART_URI
+"Logo URL"
+# RADIO_IMPORT
+"Importieren..."
+# RADIO_EXPORT
+"Exportieren..."
+# RADIO_EXPORT_WHICH
+"Welche Radio-Sender sollen als Datei exportiert werden?"
+# RADIO_EXPORT_ALL
+"Alle"
+# RADIO_EXPORT_SELECTION
+"Nur die ausgewählten"
+
+# RADIOTIME_PRESETS
+"Voreingestellte RadioTime-Sender"
+# RADIOTIME_DS_PRESETS
+"Voreingestellte Radio-Sender"
+# RADIOTIME_HOME_PAGE
+"RadioTime Startseite"
+# RADIOTIME_SUBTEXT
+"Beschreibung"
+# RADIOTIME_BITRATE
+"Bitrate"
+# RADIOTIME_RELIABILITY
+"Zuverlässigkeit"
+# RADIOTIME_CURRENT_TRACK
+"Aktueller Titel"
+
+# LASTFM_RADIO
+"Last.fm Radio"
+# LASTFM_RADIO_NEW
+"Neu..."
+# LASTFM_RADIO_STOPPED
+"Last.fm Radio wurde gestoppt"
+# LASTFM_RADIO_TYPE
+"Typ"
+# LASTFM_RADIO_SIMILAR_ARTISTS
+"Ähnliche Künstler"
+# LASTFM_RADIO_TOP_FANS
+"Hörer von"
+# LASTFM_RADIO_GLOBAL_TAG
+"Tag-Radio"
+# LASTFM_RADIO_LIBRARY
+"Musiksammlung"
+# LASTFM_RADIO_NEIGHBOURS
+"Nachbarnradio"
+# LASTFM_RADIO_LOVED_TRACKS
+"Lieblingslieder-Radio"
+# LASTFM_RADIO_RECOMMENDATION
+"Empfehlungen-Radio"
+# LASTFM_ARTIST
+"Künstler"
+# LASTFM_TAG
+"Tag"
+# LASTFM_USER
+"Benutzer"
+# LASTFM_HOME_PAGE
+"Last.fm Startseite"
+# LASTFM_PROFILE_PAGE
+"Last.fm Profil"
+# LASTFM_RECOMMENDED_PAGE
+"Last.fm Empfehlungen"
+# LASTFM_LIBRARY_PAGE
+"Last.fm Musiksammlung"
+# LASTFM_EVENTS_PAGE
+"Last.fm Events"
+# LASTFM_SETTINGS
+"Last.fm Einstellungen"
+# LASTFM_ARTIST_PAGE
+"Last.fm Künstler-Seite"
+# LASTFM_ALBUM_PAGE
+"Last.fm Album-Seite"
+# LASTFM_TRACK_PAGE
+"Last.fm Titel-Seite"
+# LASTFM_BUY_TRACK_URL
+"Titel kaufen"
+# LASTFM_BUY_ALBUM_URL
+"Album kaufen"
+# LASTFM_FREE_TRACK_URL
+"Frei verfügbarer Titel"
+# LASTFM_TITLE_STRIP
+"Starte Last.fm Radio \"%s\"..."
+
+# MENU_DEVICES
+"Geräte"
+# MENU_DEVICE_INFO
+"Geräte-Info..."
+# MENU_CUSTOMISE
+"Anpassen..."
+# MENU_OPTIONS
+"Optionen..."
+
+# KEYS
+"Tasten"
+# KEYBD_NOP
+"Nix tun"
+# KEYBD_FULLSCREEN
+"Vollbildmodus"
+# KEYBD_PAGE
+"Vorherige/Nächste Seite"
+# KEYBD_PLAY_PAUSE
+"Wiedergabe / Pause"
+# KEYBD_TRACK
+"Vorheriger/Nächster Titel"
+# KEYBD_MUTE
+"Stumm"
+# KEYBD_VOLUME
+"Lautstärke"
+# KEYBD_REFRESH
+"Ansicht aktualisieren"
+# KEYBD_SELECTION
+"Funktionsauswahl"
+# KEYBD_SELECT_RENDERER
+"Auswahl des Netzwerkspielers"
+
+# CUSTOMISE
+"Anpassen"
+# OPTIONS
+"Optionen"
+# SETTINGS_SAVED
+"Die Einstellungen wurden gespeichert"
+
+# STARTUP
+"Programmstart"
+# SETTINGS_CLASSIC_UI
+"Klassische Bedienoberfläche"
+# SETTINGS_TOOLBAR_AT_BOTTOM
+"Symbolleiste unten"
+# SETTINGS_FULLSCREEN_MODE
+"Vollbildmodus"
+# SETTINGS_MAXIMIZE_WINDOW
+"Fenster maximieren"
+
+# GENERAL
+"Allgemein"
+# SETTINGS_CLOCK
+"Uhr im Vollbildmodus"
+# SETTINGS_CLOCK_NONE
+"- keine -"
+# SETTINGS_CLOCK_LOCALE
+"Systemformat"
+# SETTINGS_CLOCK_12H
+"12h-Format"
+# SETTINGS_CLOCK_24H
+"24h-Format"
+# SETTINGS_PREFERRED_PAGE
+"Bevorzugte Seite"
+
+# SETTINGS_ACTIVATE_ITEMS_WITH_SINGLE_CLICK
+"Einfach-Klick aktiviert Einträge"
+# SETTINGS_GO_BACK_ITEM
+"\"Zurück\" als Eintrag anbieten"
+# SETTINGS_PLAYLIST_CONTAINER_ACTION
+"Bei Aktivierung einer Wiedergabeliste"
+# SETTINGS_MUSIC_ALBUM_ACTION
+"Bei Aktivierung eines Musikalbums"
+# SETTINGS_MUSIC_TRACK_ACTION
+"Bei Aktivierung eines Musikstückes"
+# SETTINGS_AUDIO_BROADCAST_ACTION
+"Bei Aktivierung eines Radiosenders"
+# SETTINGS_PAGE_AFTER_REPLACING_PLAYLIST
+"Nach dem Ersetzen der Wiedergabeliste"
+
+# SETTINGS_HANDLE_STORAGE_FOLDER_WITH_ARTIST_AS_ALBUM
+"Verzeichnisse mit Künstler-Information als Album behandeln"
+# SETTINGS_HANDLE_STORAGE_FOLDER_WITH_GENRE_AS_ALBUM
+"Verzeichnisse mit Genre-Information als Album behandeln"
+
+# SETTINGS_PLAYLIST_TOOLBAR
+"Position der Symbolleiste"
+
+# SETTINGS_ALBUM_ART_SIZE
+"Größe des Albumcovers (in Pixel)"
+# SETTINGS_SHRINK_ALBUM_ART_ONLY
+"Albumcover nicht vergrößern, nur ggf. verkleinern"
+# SETTINGS_SHOW_TRACK_NUMBER
+"Titelnummer anzeigen"
+# SETTINGS_SHOW_TRACK_DURATION
+"Titeldauer anzeigen (sofern verfügbar)"
+# SETTINGS_SHOW_ALBUM_YEAR
+"Erscheinungsjahr anzeigen (sofern verfügbar)"
+# SETTINGS_DOUBLE_CLICK
+"Bei Doppelklick"
+
+# SETTINGS_VOLUME_UI
+"Benutzerschnittstelle"
+# SETTINGS_VOLUME_UI_NONE
+"- keine -"
+# SETTINGS_VOLUME_UI_PLUSMINUS
+"+/- Knöpfe"
+# SETTINGS_VOLUME_UI_BUTTON
+"Lautstärkeknopf"
+# SETTINGS_VOLUME_UI_BAR
+"Lautstärkeschieber"
+# SETTINGS_VOLUME_SHOW_LEVEL
+"Zusätzlich den Wert anzeigen"
+# SETTINGS_VOLUME_QUIET
+"\"Leise\" entspricht dem Wert"
+# SETTINGS_VOLUME_LIMIT
+"Lautstärke begrenzen auf"
+
+# SETTINGS_ZOOM_KEY
+"Verkleinerung/Vergrößerung"
+# SETTINGS_FULL_SCREEN_KEY
+"Vollbildtaste"
+# SETTINGS_LEFT_RIGHT_KEY
+"Navigation links/rechts"
+# SETTINGS_UP_DOWN_KEY
+"Navigation hoch/runter"
+# SETTINGS_ENTER_KEY
+"Eingabetaste"
+# SETTINGS_PAGE_UP_DOWN_KEY
+"Bildlauftasten"
+# SETTINGS_USE_SYSTEM_KEYS
+"Wo sinnvoll, stattdessen Standardverhalten zeigen"
+
+# SETTINGS_RADIOTIME_0
+"RadioTime nicht nutzen"
+# SETTINGS_RADIOTIME_1
+"RadioTime nutzen"
+# SETTINGS_RADIOTIME_2
+"RadioTime via Linn DS nutzen"
+
+# SETTINGS_LASTFM
+"Last.fm nutzen"
+# SETTINGS_GET_MISSING_ALBUM_ART
+"Fehlende Albumcover laden"
+# SETTINGS_USERNAME
+"Benutzername"
+# SETTINGS_PASSWORD
+"Passwort"
+# SETTINGS_NOW_PLAYING_SUBMISSION
+"Aktuellen Titel übertragen"
+# SETTINGS_SCROBBLING
+"Scrobbeln"
+# SETTINGS_DISCOVERY_MODE
+"\"Discovery\"-Modus aktivieren (Radio)"
+
+# SETTINGS_SSDP
+"Gerätesuche"
+# SETTINGS_SSDP_MEDIA_SERVER
+"Suche nach UPnP Media Server"
+# SETTINGS_SSDP_MEDIA_RENDERER
+"Suche nach UPnP Media Renderer"
+# SETTINGS_SSDP_LINN_PRODUCTS
+"Suche nach Linn Produkten"
+# SETTINGS_SSDP_MX
+"Minimale Suchdauer"
+# SETTINGS_SSDP_TIMEOUT
+"Maximale Suchdauer"
+# SETTINGS_DEFAULT_RENDERER
+"Standard Netzwerkspieler"
+# SETTINGS_NO_DEFAULT_RENDERER
+"- Zeige Auswahl -"
+
+# QUESTION_QUIT
+"Leia beenden?"
+
+# ERROR_MESSAGE
+"Beim %s ist ein Fehler aufgetreten"
+# ERROR_CODE
+"Fehlercode"
+# FILE_NAME
+"Dateiname"
+
+# ERROR_BROWSE_FOLDER
+"Öffnen des Ordners \"%s\""
+# ERROR_BROWSE_ALBUM
+"Empfang der Titelliste des Albums \"%s\""
+# ERROR_PLAY_LASTFM_RADIO
+"Abspielen von Last.fm Radio"
+# ERROR_GET_ALBUM_COVER
+"Laden des Albumcovers"
+# ERROR_CONNECT_DEVICE
+"Verbinden zum Gerät \"%s\""
+# ERROR_HANDLE_RENDERER_EVENT
+"Behandeln eines Ereignisses des Gerätes \"%s\""
+# ERROR_OPEN_URL
+"Öffnen des Links %s"
+# ERROR_PLAYLIST_CLEAR
+"Leeren der Wiedergabeliste"
+# ERROR_PLAYLIST_ADD
+"Ergänzen der Wiedergabeliste"
+# ERROR_PLAYLIST_DELETE
+"Entfernen von Titeln aus der Wiedergabeliste"
+# ERROR_PLAYLIST_MOVE
+"Verschieben von Titeln in der Wiedergabeliste"
+# ERROR_PLAYLIST_SHUFFLE
+"Verwuseln der Wiedergabeliste"
+# ERROR_PLAYLIST_REPEAT_MODE
+"Ändern des Wiederholmodus"
+# ERROR_PLAYLIST_LOAD
+"Laden der Wiedergabeliste"
+# ERROR_PLAYLIST_SAVE
+"Speichern der Wiedergabeliste"
+# ERROR_PLAY
+"Starten des Abspielvorganges"
+# ERROR_PAUSE
+"Pausieren des Gerätes"
+# ERROR_STOP
+"Stoppen des Gerätes"
+# ERROR_SEEK_TRACK
+"Wechseln des aktuellen Titels"
+# ERROR_TOGGLE_MUTE
+"Ändern der Stummschaltung"
+# ERROR_VOLUME
+"Ändern der Lautstärke"
+# ERROR_UPNP_STARTUP
+"Initialisieren des UPnP-Stacks"
+# ERROR_UPNP_SEARCH
+"Suchen von Geräten"
+# ERROR_SAVE_SETTINGS
+"Sichern der Einstellungen"
+# ERROR_SAVE_LASTFM_HISTORY
+"Sichern der Last.fm Radio Historie"
+# ERROR_HANDLING_ITEM
+"Umgang mit dem Eintrag \"%s\""
+# ERROR_DEVICE_INFO
+"Abrufen von Geräteinformationen"
+# ERROR_DEVICE_INFO_FROM
+"Abrufen von Informationen von Gerät \"%s\""
+# ERROR_SET_RADIO_CHANNEL
+"Einstellen des Radiosenders \"%s\""
+# ERROR_GET_METADATA_FROM_FILE
+"Lesen der Datei %s"
+
+# ERRMSG_INTERNAL
+"Interner Fehler"
+# ERRMSG_CREATE_FILE
+"Kann Datei nicht anlegen"
+# ERRMSG_OPEN_FILE
+"Kann Datei nicht öffnen"
+# ERRMSG_READ_FILE
+"Fehler beim Lesen der Datei"
+# ERRMSG_WRITE_FILE
+"Fehler beim Schreiben der Datei"
+# ERRMSG_LASTFM_RADIO
+"Während des Hörens von Last.fm-Radio steht diese Funktion nicht zur Verfügung"
+# ERRMSG_UNKNOWN_FORMAT
+"Unbekanntes Datenformat"
+# ERRMSG_OUT_OF_MEMORY
+"Für diese Operation ist nicht genügend Speicher verfügbar"
+# ERRMSG_ITEM_ACTIVATED
+"Mit diesem Eintrag ist keine Funktionalität verknüpft"
+# ERRMSG_UNKNOWN_FILE_FORMAT
+"Unbekanntes Dateiformat"
+

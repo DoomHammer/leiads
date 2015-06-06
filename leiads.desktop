@@ -1,0 +1,31 @@
+[Desktop Entry]
+Categories=GTK;AudioVideo;Audio;RemoteAccess;Player;
+Comment=An UPnP Audio Control Point Application
+Comment[de]=Zur Steuerung von Audio-Netzwerkspielern
+Comment[es]=Un IGU para la familia LINN DS
+Comment[fr]=Contrôleur pour la famille des LINN DS
+Comment[sv]=En UPnP kontrollpunktprogramvara för audio
+Encoding=UTF-8
+Exec=/usr/bin/leiads
+GenericName=UPnP Audio Control Point
+GenericName[de]=Audio-Netzwerkspieler-Steuerung
+GenericName[es]=IGU
+GenericName[fr]=Contrôleur
+GenericName[sv]=UPnP Kontrollpunktprogramvara
+Icon=leiads
+Name=Leia
+Type=Application
+StartupNotify=true
+StartupWMClass=leiads
+Terminal=false
+Version=1.0
+X-GNOME-FullName=Leia UPnP Audio Control Point
+X-GNOME-FullName[de]=Leia Audio-Netzwerkspieler-Steuerung
+X-GNOME-FullName[es]=Leia IGU
+X-GNOME-FullName[fr]=Leia Contrôleur
+X-GNOME-FullName[sv]=Leia UPnP Kontrollpunktprogramvara
+X-Osso-Service=de.sommerfeldt.leiads
+X-Osso-Type=application/x-executable
+X-Window-Icon=leiads
+X-Window-Icon-Dimmed=leiads
+

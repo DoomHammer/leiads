@@ -1,0 +1,7 @@
+style "leiads-table-button"
+{
+  GtkButton::image-spacing = 12
+  GtkButton::inner-border = { 18, 36, 12, 12 }
+}
+widget_class "*.GtkTable.GtkButton" style "leiads-table-button"
+

@@ -1,0 +1,395 @@
+leiads (0.6-2) experimental; urgency=low
+
+  * Browsing of "Local Folder" added (FLAC, OGG Vorbis, MP3, WAV/1/2/16)
+  * Search for Media Servers moved to background task
+  * Selected Media Renderer could now be set as default
+  * New menu item "Playlist" => "Refresh view" (for Linn DS only)
+  * Drag & Drop of Audio and Playlist files added
+  * Adapted to Twonky Server 5.1.x
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Thu, 02 Jun 2011 20:49:07 +0200
+
+leiads (0.6-1) experimental; urgency=low
+
+  * UI container changed from Notebook style to Paned style (optional, not avail for Nokia/SmartQ edition)
+  * Further customisation (Now Playing)
+  * SSDP options added
+  * Adapted to Asset-UPnP v3
+  * Adapted to Twonky Server 6.0.x
+  * Adapted to Linn Davaar compatibility family
+  * Improved algorithm for selecting corresponding Linn Preamp
+  * RadioTime support revised
+  * Internal change: UPnP stack revised
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Mon, 25 Apr 2011 14:44:48 +0200
+
+leiads (0.5-9) stable; urgency=low
+
+  * Adapted to 64 bit build environments
+  * Bugfix in UPnP stack; Rhythmbox/Coherence should work now as server
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Thu, 14 Oct 2010 07:49:34 +0200
+
+leiads (0.5-8) stable; urgency=high
+
+  * Bugfix: Meta data from Twonky 5.1/6 and Last.fm will be routed correctly to the Media Renderer now
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sat, 26 Jun 2010 18:42:07 +0200
+
+leiads (0.5-7) stable; urgency=high
+
+  * The RadioTime presets folder can handle sub-folders now, too
+  * Volume user interface revised
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sun, 20 Jun 2010 20:29:15 +0200
+
+leiads (0.5-6) unstable; urgency=low
+
+  * Local Internet Radio folder added
+  * Workaround for Last.fm Radio played on Linn Cara 6 firmware
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Thu, 13 May 2010 20:10:47 +0200
+
+leiads (0.5-5) experimental; urgency=low
+
+  * RadioTime support: Presets
+  * Linn Cara6 support: Radio Presets
+  * Bugfix: "typeahead find" fixed in Browser and Playlist (but not working on the Nokia yet)
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sun, 18 Apr 2010 12:45:40 +0200
+
+leiads (0.5-4) experimental; urgency=low
+
+  * Adapted to Twonky Media Server 5.1
+  * Further adaptions to SmartQ-like devices
+  * The <Toggle Fullscreen> key used to be F6, changed to F11
+  * Context menu added to Library items (not complete yet)
+  * <Play> button added to the Playlist toolbar
+  * Customisation of Library and Now Playing
+  * Customisation of Keys (Nokia & SmartQ only)
+  * Support for hard keys of the SmartQ 7 device (from SmartDevices Inc.) added
+  * Bugfix: Pressing the <back> button while browsing will be handled correctly now (Nokia only)
+  * Bugfix: Leia does not crash anymore when the WLAN connection goes down during browsing (Nokia only)
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sun, 21 Feb 2010 15:07:02 +0100
+
+leiads (0.5-3) experimental; urgency=low
+
+  * Last.fm support: Album art & Radio
+  * Support for hard keys of the SmartQ 5 device (from SmartDevices Inc.) added
+  * Revised error handling
+  * Bugfix: Faster searching of media server with multiple IP addresses
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Thu, 24 Dec 2009 10:37:34 +0100
+
+leiads (0.5-2) experimental; urgency=low
+
+  * Workaround for bug in GTK+ 2.10.12 regarding album art (Nokia only)
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Fri, 25 Sep 2009 06:42:53 +0200
+
+leiads (0.5-1) experimental; urgency=low
+
+  * UPnP A/V support added
+  * Media browser revised
+  * Twonky support added (rescan, restart, rebuild)
+  * Support of multiple DS devices revised
+  * Language files released from binary
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sun, 13 Sep 2009 12:01:25 +0200
+
+leiads (0.4-8) stable; urgency=high
+
+  * Workaround for bug in GTK+ 2.10.12 regarding album art (Nokia only)
+  * Bugfix: Leia DS used to crash when browsing a media folder failed, fixed
+  * Bugfix: The Windows version used to hang when trying to display an error message within a background task, fixed
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Fri, 30 Oct 2009 19:00:33 +0100
+
+leiads (0.4-7) stable; urgency=high
+
+  * Bugfix: "Browser, Refresh view" crashed in select-server state, fixed
+  * Bugfix: Background color in now-playing page was fixed/white, corrected
+  * Bugfix: Color of not-yet-played tracks in playlist was fixed/black, corrected
+  * Bugfix: If the name was ambigious when selecting a DS in a multi-DS environment, the serial number was not shown for Auskerry devices, fixed
+  * Bugfix in Auskerry & Bute media event handling
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sun,  2 Aug 2009 09:03:18 +0200
+
+leiads (0.4-6) stable; urgency=high
+
+  * Stable release without debug stuff
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sat, 20 Jun 2009 12:19:46 +0200
+
+leiads (0.4-5) unstable; urgency=medium
+
+  * French translation added (thanks to Jean-Marie Vangoethem)
+  * Spanish translation added (thanks to Victor V. Diaz-Diaz)
+  * Bugfix in language support
+  * Bugfix in Cara support: Handling of `IdArray' event revised again
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sat, 13 Jun 2009 09:15:19 +0200
+
+leiads (0.4-4) unstable; urgency=medium
+
+  * Bugfix in Cara support: Handling of `IdArray' event revised
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sat,  6 Jun 2009 15:39:04 +0200
+
+leiads (0.4-3) unstable; urgency=medium
+
+  * Uses standard GTK+ volume button now (Win32 & Linux, needs GTK+ 2.12)
+  * Playlist file format revised (now at version 3)
+  * Linn Kinsky playlists can now be loaded now, too
+  * "Now playing" and "music track" icon replaced
+  * Internal browser cache added
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Mon,  1 Jun 2009 15:50:07 +0200
+
+leiads (0.4-2) unstable; urgency=medium
+
+  * Adapted to Cara compatibility family (now finished!)
+  * Auskerry & Bute support revised
+  * "Repeat Mode" for Auskerry & Bute devices added
+  * Made the transport state of the DS ("Playing", "Paused", "Stopped") visible
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sun, 24 May 2009 10:19:26 +0200
+
+leiads (0.4-1) experimental; urgency=low
+
+  * Adapted to Cara compatibility family (not complete yet!)
+  * Internal: Use eventing instead of polling for mute/volume
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Wed, 13 May 2009 19:32:51 +0200
+
+leiads (0.3-6) stable; urgency=low
+
+  * Swedish translation added (thanks to Johan Millert)
+  * The list of Media Servers is sorted alphabetically now
+  * Playlists will be saved with extension ".xml" now
+  * While saving a playlist an info about persistency will be shown now
+  * Bugfix: Double "row-activated" events will be suppressed now
+  * Bugfix: The volume bar will be set immediately after mute toggling
+  * SSDP timeout increased from 10s to 30s
+  * SSDP HTTP/GET timeout increased from 10s to 30s
+  * TCP/IP receive timeout increased from 30/10s to 30/20s
+  * TCP/IP receive-after-send timeout decreased from 30s to 10s (workaround for Bute 07/2008)
+  * Internal: UPnP device management revised
+  * Internal: UPnP device searching revised
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sun, 12 Apr 2009 09:29:57 +0200
+
+leiads (0.3-5) stable; urgency=high
+
+  * Adapted to Windows Media Connect server
+  * Adapted to Asset UPnP server (album art)
+  * Browser shows track number and release year now
+  * Volume checking revised and intervall changed from 1s to 10s
+  * Bugfix in DS event handling
+  * Bugfix in internal XML parser
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Tue, 30 Dec 2008 10:46:14 +0100
+
+leiads (0.3-4) testing; urgency=high
+
+  * Internet Radio (Twonky/Shoutcast) support fixed
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sat, 20 Dec 2008 19:39:20 +0100
+
+leiads (0.3-3) testing; urgency=high
+
+  * Bugfix regarding unknown artist or title information
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sun,  7 Dec 2008 18:21:41 +0100
+
+leiads (0.3-2) unstable; urgency=low
+
+  * Support for multiple DS devices revised
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Tue,  2 Dec 2008 21:13:20 +0100
+
+leiads (0.3-1) unstable; urgency=low
+
+  * UPnP searching for devices revised (and 10s HTTP/GET timeout added)
+  * Support for multiple DS devices added
+  * Browser: If-there-is-only-a-"Music"-folder-open-it-automatically revised (again)
+  * Playlist: Clearing revised (re-sync with the DS sequence number & track count implemented)
+  * Keyboard handling and layout revised
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sun, 23 Nov 2008 15:33:13 +0100
+
+leiads (0.2-6) experimental; urgency=low
+
+  * Browser: If opening a folder takes more than 1s an animation will be shown
+  * Browser: If-there-is-only-a-"Music"-folder-open-it-automatically revised
+  * Playlist: File format revised (internal version is now "2")
+  * Bugfix: Twonky playlists will be treated as albums (instead of folders) now
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sat, 25 Oct 2008 21:00:03 +0200
+
+leiads (0.2-5) experimental; urgency=low
+
+  * Some (more) adaptions to "Plain GTK+"
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sun, 12 Oct 2008 18:23:27 +0200
+
+leiads (0.2-4) experimental; urgency=low
+
+  * Safety question added if one tries to replace the playing playlist
+  * Bugfix: When replacing a playing playlist, the new one didn't get started
+  * Playlist Shuffle implemented
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Wed,  8 Oct 2008 09:09:23 +0200
+
+leiads (0.2-3) experimental; urgency=low
+
+  * Bugfix: Moving track in playlist will now preserve selectSun, 18 Apr 2010 12:45:40 +0200ion
+  * Bugfix: The current track can now be moved, too
+  * Bugfix in Info dialog which crashed since version 0.2-1
+  * Bugfix: Receiving timeout increased from 10s to 30s (1st char only)
+  * Info dialog gives preamp info when using "Auskerry" firmware, too
+  * The album image will always be loaded unscaled from Twonky now
+  * The album image will not be enlarged anymore, only shrinked (if necessary)
+  * Bugfix: The album resp. track title will be wrapped in "Now Playing" page
+  * Bugfix: Playlists >160k can now be loaded on "Bute" devices, too
+  * Safety question added if one tries to clear the playing playlist
+  * Safety question added if one tries to delete the playing track
+  * A short note will be displayed if a playlist was saved successfully now
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sun,  5 Oct 2008 20:27:12 +0200
+
+leiads (0.2-2) experimental; urgency=low
+
+  * Adapted to current "Bute" firmware
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Tue, 23 Sep 2008 20:55:31 +0200
+
+leiads (0.2-1) experimental; urgency=low
+
+  * Internal: UPnP Eventing (GENA) implemented
+  * Playlist revised and enhanced
+  * "Now Playing" page implemented
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sun, 21 Sep 2008 18:23:23 +0200
+
+leiads (0.1-15) experimental; urgency=low
+
+  * Internal: UPnP buffer management revised
+  * Internal: XML parser revised & bugfixed
+  * Improvement: Loading a playlist will be done as background task now
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sun,  7 Sep 2008 11:43:13 +0200
+
+leiads (0.1-14) experimental; urgency=low
+
+  * Improvement: SSDP retransmission will be done at a specific (0.5s) time now
+  * Bugfix: Two internal buffers enlarged
+  * Improvement: Saving a playlist takes less time & memory now
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Tue, 19 Aug 2008 21:29:49 +0200
+
+leiads (0.1-13) experimental; urgency=low
+
+  * Bugfix: Correct timeout during searching for devices
+  * Bugfix: UPnP buffer management re-written
+  * Bugfix: MediaTomb works now with Auskerry DS devices, too
+  * Debug: A log file will be written to MYDOCSDIR now
+  * Adapted to "Plain GTK+"
+  * German texts added
+  * Improved searching (two UDP transmissions, up to three times)
+  * Internal: HTTP client enhanced to HTTP/1.1
+  * Workaround: Media_PlaylistRead() can read more than 50 tracks now
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Thu, 14 Aug 2008 21:13:23 +0200
+
+leiads (0.1-12) experimental; urgency=low
+
+  * Bugfix: UPNP_MAX_URL increased from 64 to 128
+  * If no media server or Linn DS will be found, an error message will be shown now
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sat, 28 Jun 2008 13:32:30 +0200
+
+leiads (0.1-11) experimental; urgency=low
+
+  * Adapted to MediaTomb media server
+  * Additional debug infos
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sat, 28 Jun 2008 10:03:46 +0200
+
+leiads (0.1-10) experimental; urgency=low
+
+  * Adapted to Linn Bute compatibility family
+  * Support of multiple media servers
+  * License changed from Public Domain to GPLv3
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sun, 22 Jun 2008 11:12:40 +0200
+
+leiads (0.1-9) experimental; urgency=low
+
+  * Bugfix: Volume bar goes up to correct limit
+  * Bugfix: Playlist column widths will be reset is necessary
+  * Improved standby handling
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Mon, 16 Jun 2008 16:45:58 +0200
+
+leiads (0.1-8) experimental; urgency=low
+
+  * Uses urn:linn-co-uk:service:Preamp:x instead of urn:schemas-upnp-org:device:MediaRenderer:1
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Sat, 31 May 2008 09:14:04 +0200
+
+leiads (0.1-7) experimental; urgency=low
+
+  * Improved browsing
+  * Improved thread handling
+  * Connection will be established automatically
+  * Volume bar updating
+  * Icons
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Tue, 27 May 2008 19:48:33 +0200
+
+leiads (0.1-6) experimental; urgency=low
+
+  * Playlist tracks can be activated now
+  * Browsing over "Folder" improved
+  * Internal: Improved XML parsing
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Thu, 22 May 2008 19:13:00 +0200
+
+leiads (0.1-5) experimental; urgency=low
+
+  * Info dialog added
+  * Playlist view added
+  * Volume control revised
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Mon, 19 May 2008 20:15:06 +0200
+
+leiads (0.1-4) experimental; urgency=low
+
+  * Improved debug support
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Fri, 16 May 2008 22:05:27 +0200
+
+leiads (0.1-3) experimental; urgency=low
+
+  * Improved installation
+  * Media browser added
+  * Rudimentary playlist support added
+  * Media functions (Play, Pause, ...) added
+  * Copyright dialog added
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Wed, 14 May 2008 20:00:00 +0200
+
+leiads (0.1-2) experimental; urgency=low
+
+  * Adapted to Akurate and Sneaky DS
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Mon, 25 Apr 2008 20:56:00 +0200
+
+leiads (0.1-1) experimental; urgency=low
+
+  * Initial test release
+
+ -- Axel Sommerfeldt <axel.sommerfeldt@f-m.fm>  Mon, 21 Apr 2008 21:22:51 +0200
+

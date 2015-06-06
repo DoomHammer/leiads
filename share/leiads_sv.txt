@@ -1,0 +1,621 @@
+﻿[leiads language file]
+
+# TRANSLATOR_CREDITS
+"Johan Millert"
+
+# COMMENTS
+"En UPnP kontrollpunktprogramvara för audio"
+
+# LICENSE
+"This is an unofficial translation of the GNU "
+"General Public License into Swedish. It was not "
+"published by the Free Software Foundation, and does not legally "
+"state the distribution terms for software that uses the GNU "
+"GPL—only the original English text of the GNU GPL does that. "
+"However, we hope that this translation will help Swedish speakers "
+"understand the GNU GPL better.\n"
+"\n"
+"Leia är fri programvara. Du kan vidaredistribuera det "
+"och/eller modifiera det i enlighet med villkoren i GNU "
+"General Public License publicerad av Free "
+"Software Foundation, antingen version 3 "
+"eller (om du så vill) någon senare version.\n"
+"\n"
+"Leia distribueras med förhoppningen att det skall vara "
+"användbart, men UTAN NÅGRA SOM HELST GARANTIER, även utan "
+"den underförstådda garantin om SÄLJBARHET "
+"eller LÄMPLIGHET FÖR SPECIELLT ÄNDAMÅL.\n"
+"\n"
+"Se GNU General Public License för fler detaljer:\n"
+"http://www.gnu.org/licenses/"
+
+# MENU_FILE
+"Arkiv"
+# MENU_QUIT
+"Avsluta"
+# MENU_VIEW
+"Visa"
+# MENU_TOOLS
+"Verktyg"
+# MENU_INFO
+"Info..."
+# MENU_ABOUT
+"Om..."
+
+# BROWSER
+"Bibliotek"
+# PLAYLIST
+"Spellista"
+# NOW_PLAYING
+"Spelas nu"
+# MEDIA_PLAY
+"Spela upp"
+# MEDIA_PAUSE
+"Pausa"
+# MEDIA_STOP
+"Stoppa"
+# MEDIA_PREVIOUS
+"Föregående spår"
+# MEDIA_NEXT
+"Nästa spår"
+# MUTE
+"Ljud av"
+# QUIET
+"Tyst"
+# LOUD
+"Ljudligt"
+# VOLUME
+"Volym"
+# VOLUME_MINUS
+"Volym -"
+# VOLUME_PLUS
+"Volym +"
+# VOLUME_INFO
+"Volym %d"
+
+# SEARCHING_SERVER
+"Söker mediaserver"
+# SEARCHING_RENDERER
+"Söker mediaspelare"
+# SEARCHING_SERVER_AND_RENDERER
+"Söker mediaserver och mediaspelare"
+# NO_SERVER_FOUND
+"Ingen mediaserver hittades"
+# NO_RENDERER_FOUND
+"Ingen mediaspelare hittades"
+# NO_SERVER_AND_RENDERER_FOUND
+"Ingen mediaserver och ingen mediaspelare hittades"
+# SET_AS_DEFAULT
+"Set selection as default"                       // NEEDS TRANSLATION
+
+# INFO
+"Enhetsinformation"
+# INFO_FRIENDLY_NAME
+"Namn"
+# INFO_MODEL_NAME
+"Modellnamn"
+# INFO_MODEL_NUMBER
+"Modellnummer"
+# INFO_SERIAL_NUMBER
+"Serienummer"
+# INFO_MANUFACTURER
+"Tillverkare"
+# INFO_URL
+"URL"
+# INFO_IP_ADDRESS
+"IP-adress"
+# INFO_MAC_ADDRESS
+"MAC-adress"
+# INFO_PRODUCT_ID
+"Produkt-ID"
+# INFO_SOFTWARE_VERSION
+"Mjukvaruversion"
+# INFO_HARDWARE_VERSION
+"Hårdvaruversion"
+
+# BROWSER_MEDIA_SERVERS
+"Mediaservrar"
+# BROWSER_OPENING
+"Läser"
+# BROWSER_GO_BACK
+"Gå bakåt"
+# BROWSER_POPUP_MENU
+"Visa snabbmenyn"
+# BROWSER_OPEN
+"Utforska"
+# BROWSER_REPLACE_PLAYLIST
+"Ersätt spellistan"
+# BROWSER_APPEND_TO_PLAYLIST
+"Lägg till i spellistan"
+# BROWSER_SET_CHANNEL
+"Ställ in radiokanal"
+# BROWSER_REPLACE_PLAYLIST_QUESTION
+"Ersätt spellistan?"
+# BROWSER_CHANNEL_SET
+"Radiokanalen \"%s\" inställd"
+# BROWSER_LOCAL_FOLDER
+"Local Folder"                                   // NEEDS TRANSLATION
+
+# PLAYLIST_REPLACED
+"Spellistan ersatt av \"%s\""
+# PLAYLIST_ADDED
+"Tillagd i spellistan \"%s\""
+# PLAYLIST_CLEAR
+"Rensa allt"
+# PLAYLIST_CLEAR_QUESTION
+"Rensa spellistan?"
+# PLAYLIST_CLEARED
+"Spellistan rensad"
+# PLAYLIST_SHUFFLE
+"Blanda"
+# PLAYLIST_SHUFFLE_QUESTION
+"Blanda spellistan?"
+# PLAYLIST_LOAD
+"Ladda..."
+# PLAYLIST_SAVE_AS
+"Spara som..."
+# PLAYLIST_LOAD_CAPTION
+"Ladda spellista"
+# PLAYLIST_SAVE_CAPTION
+"Spara spellista"
+# PLAYLIST_FILTER_NAME
+"Spellistor"
+# PLAYLIST_FILTER_NAME_1
+"%s spellistor"
+# PLAYLIST_PLAY
+"Spela spår"
+# PLAYLIST_MOVE_UP
+"Flytta upp spår"
+# PLAYLIST_MOVE_DOWN
+"Flytta ned spår"
+# PLAYLIST_DELETE
+"Ta bort spår"
+# PLAYLIST_DELETE_QUESTION
+"Ta bort markerat spår?"
+# PLAYLIST_NOT_A_VALID_FILE
+"Inte en giltig spellistfil"
+# PLAYLIST_TRACKS_NOT_ADDED
+"%d spår kunde inte läggas till i spellistan eftersom tillhörande mediaserver inte är tillgänglig."
+# PLAYLIST_READING
+"Läser spellistan"
+# PLAYLIST_SHUFFLING
+"Blandar spellistan"
+# PLAYLIST_LOADING
+"Laddar spellistan"
+# PLAYLIST_SAVED
+"Spellistan sparad som \"%s\""
+# PLAYLIST_INFO
+"Då spellistor som sparas på detta sätt bara är giltiga så länge "
+"du inte bygger om databasen på mediaservern, "
+"så bör denna funktion endast användas för att spara tillfälliga spellistor!\n\n"
+"För att skapa en varaktig spellista är det bättre att använda "
+"funktionerna för spellistor i din mediaserver istället."
+# PLAYLIST_REPEAT_MODE
+"Repeterad uppspelning"
+# PLAYLIST_SHUFFLE_PLAY
+"Slumpvis uppspelning"
+# PLAYLIST_NO_TOOLBAR
+"- ingen -"
+# PLAYLIST_LEFT_TOOLBAR
+"vänster"
+# PLAYLIST_RIGHT_TOOLBAR
+"höger"
+
+# NOW_PLAYING_EOP
+"Slut på spellistan"
+
+# DC_TITLE
+"Titel"
+# DC_CREATOR
+"Upphovsman"
+# UPNP_ARTIST
+"Artist"
+# UPNP_ALBUM
+"Album"
+# UPNP_GENRE
+"Genre"
+# DC_DATE
+"Datum"
+# DC_YEAR
+"År"
+# UPNP_ORIGINAL_TRACK_NUMBER
+"Ursprungligt spårnummer"
+# UPNP_COMPOSER
+"Kompositör"
+# RES_DURATION
+"Spårlängd"
+# UNKNOWN
+"- okänt -"
+
+# TRANSPORT_STATE_BUFFERING
+"Buffering..."                                   // NEEDS TRANSLATION
+# TRANSPORT_STATE_PAUSED
+"Paused"                                         // NEEDS TRANSLATION
+# TRANSPORT_STATE_PLAYING
+"Playing"                                        // NEEDS TRANSLATION
+# TRANSPORT_STATE_TRANSITIONING
+"Transitioning..."                               // NEEDS TRANSLATION
+# TRANSPORT_STATE_STOPPED
+"Stopped"                                        // NEEDS TRANSLATION
+
+# SERVER_RESCAN
+"Sök i innehållskataloger"
+# SERVER_RESTART
+"Starta om servern"
+# SERVER_REBUILD
+"Bygg om databasen"
+# SERVER_REBUILD_QUESTION
+"Är du säker på att du vill bygga om databasen på mediaservern \"%s\"?"
+# SERVER_REBUILD_QUESTION_X
+"Vänligen notera att detta kommer att göra alla dina spellistor i Leia som refererar till denna mediaserver ogiltiga!"
+
+# QUOTED
+"\"%s\""
+# WLAN_CONNECTING
+"Ansluter"
+# TOGGLE_FULLSCREEN
+"Växla helskärmsläge"
+# TOGGLE_MUTE
+"Ljud på/av"
+# CLEAR_PLAYLIST
+"Rensa spellistan"
+# QUIT_APPLICATION
+"Avsluta ansökan"
+# PRESENTATION_URL                               // NEEDS TRANSLATION
+"Presentation page"
+# MANUFACTURER_URL                               // NEEDS TRANSLATION
+"Manufacturer page"
+
+# RADIO
+"Internetradio"
+# RADIO_NEW
+"Ny radiostation"
+# RADIO_EDIT
+"Redigera radiostation"
+# RADIO_ALBUM_ART_URI
+"Logotyp URL"
+# RADIO_IMPORT
+"Importera..."
+# RADIO_EXPORT
+"Exportera..."
+# RADIO_EXPORT_WHICH
+"Vilka radiostationer vill du exportera till fil?"
+# RADIO_EXPORT_ALL
+"Alla"
+# RADIO_EXPORT_SELECTION
+"Endast valda"
+
+# RADIOTIME_PRESETS
+"RadioTime förinställda"
+# RADIOTIME_DS_PRESETS
+"Linn DS Radio förinställda"
+# RADIOTIME_HOME_PAGE
+"RadioTime startsidan"
+# RADIOTIME_SUBTEXT
+"Info"                                           // NEEDS TRANSLATION
+# RADIOTIME_BITRATE
+"Bitrate"                                        // NEEDS TRANSLATION
+# RADIOTIME_RELIABILITY
+"Reliability"                                    // NEEDS TRANSLATION
+# RADIOTIME_CURRENT_TRACK
+"Current Track"                                  // NEEDS TRANSLATION
+
+# LASTFM_RADIO
+"Last.fm radio"
+# LASTFM_RADIO_NEW
+"Ny..."
+# LASTFM_RADIO_STOPPED
+"Last.fm radio stoppad"
+# LASTFM_RADIO_TYPE
+"Typ"
+# LASTFM_RADIO_SIMILAR_ARTISTS
+"Liknande artister radio"
+# LASTFM_RADIO_TOP_FANS
+"Toppfans radio"
+# LASTFM_RADIO_GLOBAL_TAG
+"Globala taggar radio"
+# LASTFM_RADIO_LIBRARY
+"Bibliotek radio"
+# LASTFM_RADIO_NEIGHBOURS
+"Grannar radio"
+# LASTFM_RADIO_LOVED_TRACKS
+"Älskade låtar radio"
+# LASTFM_RADIO_RECOMMENDATION
+"Rekommenderade radio"
+# LASTFM_ARTIST
+"Artist"
+# LASTFM_TAG
+"Tagg"
+# LASTFM_USER
+"Användare"
+# LASTFM_HOME_PAGE
+"Last.fm startsidan"
+# LASTFM_PROFILE_PAGE
+"Last.fm profil"
+# LASTFM_RECOMMENDED_PAGE
+"Last.fm rekommenderade"
+# LASTFM_LIBRARY_PAGE
+"Last.fm bibliotek"
+# LASTFM_EVENTS_PAGE
+"Last.fm spelningar"
+# LASTFM_SETTINGS
+"Last.fm inställningar"
+# LASTFM_ARTIST_PAGE
+"Last.fm artistsidan"
+# LASTFM_ALBUM_PAGE
+"Last.fm albumsidan"
+# LASTFM_TRACK_PAGE
+"Last.fm låtsidan"
+# LASTFM_BUY_TRACK_URL
+"Köp låt"
+# LASTFM_BUY_ALBUM_URL
+"Köp album"
+# LASTFM_FREE_TRACK_URL
+"Hämta gratis låt"
+# LASTFM_TITLE_STRIP
+"Starting Last.fm Radio \"%s\"..."
+
+# MENU_DEVICES
+"Enheter"
+# MENU_DEVICE_INFO
+"Enhetsinformation..."
+# MENU_CUSTOMISE
+"Anpassa..."
+# MENU_OPTIONS
+"Inställningar..."
+
+# KEYS
+"Tangenter"
+# KEYBD_NOP
+"Ingen åtgärd"
+# KEYBD_FULLSCREEN
+"Helskärmsläge"
+# KEYBD_PAGE
+"Föregående/Nästa sida"
+# KEYBD_PLAY_PAUSE
+"Spela / Pausa"
+# KEYBD_TRACK
+"Föregående/Nästa spår"
+# KEYBD_MUTE
+"Ljud av"
+# KEYBD_VOLUME
+"Volym upp/ned"
+# KEYBD_REFRESH
+"Uppdatera vyn"
+# KEYBD_SELECTION
+"Funktionsval"
+# KEYBD_SELECT_RENDERER
+"Välj mediaspelare"
+
+# CUSTOMISE
+"Anpassa"
+# OPTIONS
+"Inställningar"
+# SETTINGS_SAVED
+"Inställningarna sparades"
+
+# STARTUP
+"Start"
+# SETTINGS_CLASSIC_UI
+"Classic user interface"                         // NEEDS TRANSLATION
+# SETTINGS_TOOLBAR_AT_BOTTOM
+"Verktygsfält nederst"
+# SETTINGS_FULLSCREEN_MODE
+"Helskärmsläge"
+# SETTINGS_MAXIMIZE_WINDOW
+"Maximera fönster"
+
+# GENERAL
+"General"                                        // NEEDS TRANSLATION
+# SETTINGS_CLOCK
+"Klocka i helskärmsläge"
+# SETTINGS_CLOCK_NONE
+"- ingen -"
+# SETTINGS_CLOCK_LOCALE
+"Lokals format"
+# SETTINGS_CLOCK_12H
+"12-timmarsvisning"
+# SETTINGS_CLOCK_24H
+"24-timmarsvisning"
+# SETTINGS_PREFERRED_PAGE
+"Preferred page"                                 // NEEDS TRANSLATION
+
+# SETTINGS_ACTIVATE_ITEMS_WITH_SINGLE_CLICK
+"Aktivera poster med enkelklick"
+# SETTINGS_GO_BACK_ITEM
+"Visa \"gå bakåt\" val"
+# SETTINGS_PLAYLIST_CONTAINER_ACTION
+"Vid aktivering av spellista"
+# SETTINGS_MUSIC_ALBUM_ACTION
+"Vid aktivering av musikalbum"
+# SETTINGS_MUSIC_TRACK_ACTION
+"Vid aktivering av musikspår"
+# SETTINGS_AUDIO_BROADCAST_ACTION
+"Vid aktivering av radiostation"
+# SETTINGS_PAGE_AFTER_REPLACING_PLAYLIST
+"Efter spellistan ersatts"
+
+# SETTINGS_HANDLE_STORAGE_FOLDER_WITH_ARTIST_AS_ALBUM
+"Behandla kataloger med artistinfo som album"
+# SETTINGS_HANDLE_STORAGE_FOLDER_WITH_GENRE_AS_ALBUM
+"Behandla kataloger med genreinfo som album"
+
+# SETTINGS_PLAYLIST_TOOLBAR
+"Verktygsfältets position"
+
+# SETTINGS_ALBUM_ART_SIZE
+"Albumomslags storlek (i bildpunkter)"
+# SETTINGS_SHRINK_ALBUM_ART_ONLY
+"Förstora inte albumomslag (men förminska om nödvändigt)"
+# SETTINGS_SHOW_TRACK_NUMBER
+"Visa spårnummer"
+# SETTINGS_SHOW_TRACK_DURATION
+"Visa spårlängd (om tillgänglig)"
+# SETTINGS_SHOW_ALBUM_YEAR
+"Visa albumår (om tillgängligt)"
+# SETTINGS_DOUBLE_CLICK
+"Double-click action"                            // NEEDS TRANSLATION
+
+# SETTINGS_VOLUME_UI
+"Användargränssnitt"
+# SETTINGS_VOLUME_UI_NONE
+"- ingen -"
+# SETTINGS_VOLUME_UI_PLUSMINUS
+"+/- knappar"
+# SETTINGS_VOLUME_UI_BUTTON
+"Knappen volym"
+# SETTINGS_VOLUME_UI_BAR
+"Volymreglaget"
+# SETTINGS_VOLUME_SHOW_LEVEL
+"Visa nivå dessutom"
+# SETTINGS_VOLUME_QUIET
+"Tyst nivå motsvarar"
+# SETTINGS_VOLUME_LIMIT
+"Begränsa nivå till"
+
+# SETTINGS_ZOOM_KEY
+"Zooma in/ut tangenter"
+# SETTINGS_FULL_SCREEN_KEY
+"Helskärmstangent"
+# SETTINGS_LEFT_RIGHT_KEY
+"Bläddra vänster/höger tangenter"
+# SETTINGS_UP_DOWN_KEY
+"Bläddra upp/ned tangenter"
+# SETTINGS_ENTER_KEY
+"Returtangent"
+# SETTINGS_PAGE_UP_DOWN_KEY
+"Sida upp/ned tangenter"
+# SETTINGS_USE_SYSTEM_KEYS
+"Om lämpligt, utför systemåtgärd istället"
+
+# SETTINGS_RADIOTIME_0
+"Disable RadioTime support"                      // NEEDS TRANSLATION
+# SETTINGS_RADIOTIME_1
+"Enable RadioTime support"                       // NEEDS TRANSLATION
+# SETTINGS_RADIOTIME_2
+"Use RadioTime via Linn DS"                      // NEEDS TRANSLATION
+
+# SETTINGS_LASTFM
+"Last.fm stöd"
+# SETTINGS_GET_MISSING_ALBUM_ART
+"Hämta saknade albumomslag"
+# SETTINGS_USERNAME
+"Användarnamn"
+# SETTINGS_PASSWORD
+"Lösenord"
+# SETTINGS_NOW_PLAYING_SUBMISSION
+"Skicka \"Nu spelas\""
+# SETTINGS_SCROBBLING
+"Skrobbla"
+# SETTINGS_DISCOVERY_MODE
+"Aktivera \"Upptäckarläge\" (radio)"
+
+# SETTINGS_SSDP
+"Device Search"                                  // NEEDS TRANSLATION
+# SETTINGS_SSDP_MEDIA_SERVER
+"Search for UPnP Media Server"                   // NEEDS TRANSLATION
+# SETTINGS_SSDP_MEDIA_RENDERER
+"Search for UPnP Media Renderer"                 // NEEDS TRANSLATION
+# SETTINGS_SSDP_LINN_PRODUCTS
+"Search for Linn products"                       // NEEDS TRANSLATION
+# SETTINGS_SSDP_MX
+"Min. search duration"                           // NEEDS TRANSLATION
+# SETTINGS_SSDP_TIMEOUT
+"Max. search duration"                           // NEEDS TRANSLATION
+# SETTINGS_DEFAULT_RENDERER
+"Default Media Renderer"                         // NEEDS TRANSLATION
+# SETTINGS_NO_DEFAULT_RENDERER
+"- Show dialog -"                                // NEEDS TRANSLATION
+
+# QUESTION_QUIT
+"Quit Leia?"                                     // NEEDS TRANSLATION
+
+# ERROR_MESSAGE
+"Ett fel uppstod vid %s"
+# ERROR_CODE
+"Felkod"
+# FILE_NAME
+"Filnamn"
+
+# ERROR_BROWSE_FOLDER
+"bläddring i katalogen \"%s\""
+# ERROR_BROWSE_ALBUM
+"hämtning av spårinformation för albumet \"%s\""
+# ERROR_PLAY_LASTFM_RADIO
+"uppspelning av Last.fm radio"
+# ERROR_GET_ALBUM_COVER
+"hämtning av albumomslag"
+# ERROR_CONNECT_DEVICE
+"anslutning till enheten \"%s\""
+# ERROR_HANDLE_RENDERER_EVENT
+"hantering av en händelse från enheten \"%s\""
+# ERROR_OPEN_URL
+"öppnande av länken %s"
+# ERROR_PLAYLIST_CLEAR
+"rensning av spellistan"
+# ERROR_PLAYLIST_ADD
+"tillägg av spår till spellistan"
+# ERROR_PLAYLIST_DELETE
+"borttagning av spår från spellistan"
+# ERROR_PLAYLIST_MOVE
+"flytt av spår i spellistan"
+# ERROR_PLAYLIST_SHUFFLE
+"blandning av spellistan"
+# ERROR_PLAYLIST_REPEAT_MODE
+"ändring av repeterad uppspelning"
+# ERROR_PLAYLIST_LOAD
+"laddning av spellistan"
+# ERROR_PLAYLIST_SAVE
+"sparande av spellistan"
+# ERROR_PLAY
+"start av enheten för uppspelning"
+# ERROR_PAUSE
+"paus av enheten"
+# ERROR_STOP
+"stopp av enheten"
+# ERROR_SEEK_TRACK
+"byte av aktuellt spår"
+# ERROR_TOGGLE_MUTE
+"ändring av ljud på/av"
+# ERROR_VOLUME
+"ändring av volymen"
+# ERROR_UPNP_STARTUP
+"initialisering av UPnP-stacken"
+# ERROR_UPNP_SEARCH
+"sökning efter enheter"
+# ERROR_SAVE_SETTINGS
+"sparande av inställningarna"
+# ERROR_SAVE_LASTFM_HISTORY
+"sparande av Last.fm radio historiken"
+# ERROR_HANDLING_ITEM
+"hantering av posten \"%s\""
+# ERROR_DEVICE_INFO
+"hämtning av enhetsinformation"
+# ERROR_DEVICE_INFO_FROM
+"hämtning av information från enheten \"%s\""
+# ERROR_SET_RADIO_CHANNEL
+"inställning av radiokanalen \"%s\""
+# ERROR_GET_METADATA_FROM_FILE
+"getting metadata from file %s"                  // NEEDS TRANSLATION
+
+# ERRMSG_INTERNAL
+"Internt fel"
+# ERRMSG_CREATE_FILE
+"Kan inte skapa fil"
+# ERRMSG_OPEN_FILE
+"Kan inte öppna fil"
+# ERRMSG_READ_FILE
+"Fel vid läsning av fil"
+# ERRMSG_WRITE_FILE
+"Fel vid skrivning till fil"
+# ERRMSG_LASTFM_RADIO
+"Denna funktion är inte tillgänglig under lyssning på Last.fm radio"
+# ERRMSG_UNKNOWN_FORMAT
+"Okänt dataformat"
+# ERRMSG_OUT_OF_MEMORY
+"Slut på minne"
+# ERRMSG_ITEM_ACTIVATED
+"Det finns ingen åtgärd kopplad till denna post"
+# ERRMSG_UNKNOWN_FILE_FORMAT
+"Unknown file format"                            // NEEDS TRANSLATION
+

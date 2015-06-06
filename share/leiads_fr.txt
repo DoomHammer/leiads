@@ -1,0 +1,618 @@
+﻿[leiads language file]
+
+# TRANSLATOR_CREDITS
+"Jean-Marie Vangoethem"
+
+# COMMENTS
+"Contrôleur UPNP pour la famille des LINN DS"
+
+# LICENSE
+"Leia est un logiciel libre ; vous pouvez le redistribuer ou le "
+"modifier suivant les termes de la “GNU General Public License” telle que "
+"publiée par la Free Software Foundation : soit la version 3 de cette "
+"licence, soit (à votre gré) toute version ultérieure.\n"
+"\n"
+"Leia est distribué dans l’espoir qu’il vous sera utile, mais SANS "
+"AUCUNE GARANTIE : sans même la garantie implicite de COMMERCIALISABILITÉ "
+"ni d’ADÉQUATION À UN OBJECTIF PARTICULIER. Consultez la Licence Générale "
+"Publique GNU pour plus de détails.\n"
+"\n"
+"Vous devriez avoir reçu une copie de la Licence Générale Publique GNU avec "
+"ce programme ; si ce n’est pas le cas, consultez :\n"
+"http://www.gnu.org/licenses/\n"
+"\n"
+"(This translation of the GPL is informal, and not "
+"officially approved by the Free Software Foundation "
+"as valid. To be completely sure of what is permitted, "
+"refer to the original GPL in English.)"
+
+# MENU_FILE
+"Fichier"
+# MENU_QUIT
+"Quitter"
+# MENU_VIEW
+"Affichage"
+# MENU_TOOLS
+"Options"
+# MENU_INFO
+"Info..."
+# MENU_ABOUT
+"A propos..."
+
+# BROWSER
+"Librairie"
+# PLAYLIST
+"Liste de lecture"
+# NOW_PLAYING
+"En lecture"
+# MEDIA_PLAY
+"Lire"
+# MEDIA_PAUSE
+"Pause"
+# MEDIA_STOP
+"Arrêt"
+# MEDIA_PREVIOUS
+"Précédent"
+# MEDIA_NEXT
+"Suivant"
+# MUTE
+"Silencieux"
+# QUIET
+"Solencieux"
+# LOUD
+"Fort"
+# VOLUME
+"Volume"
+# VOLUME_MINUS
+"Volume -"
+# VOLUME_PLUS
+"Volume +"
+# VOLUME_INFO
+"Volume %d"
+
+# SEARCHING_SERVER
+"Recherche de serveur média"
+# SEARCHING_RENDERER
+"Recherche de lecteur Linn DS"
+# SEARCHING_SERVER_AND_RENDERER
+"Recherche de serveur média et de lecteur Linn DS"
+# NO_SERVER_FOUND
+"Pas de serveur média disponible"
+# NO_RENDERER_FOUND
+"Pas de lecteur Linn DS disponible"
+# NO_SERVER_AND_RENDERER_FOUND
+"Pas de serveur ni de lecteur Linn DS disponible"
+# SET_AS_DEFAULT
+"Set selection as default"                       // NEEDS TRANSLATION
+
+# INFO
+"Info"
+# INFO_FRIENDLY_NAME
+"Nom"
+# INFO_MODEL_NAME
+"Modèle"
+# INFO_MODEL_NUMBER
+"Identification du modèle"
+# INFO_SERIAL_NUMBER
+"Numéro de série"
+# INFO_MANUFACTURER
+"Fabricant ou éditeur"
+# INFO_URL
+"URL"
+# INFO_IP_ADDRESS
+"Adresse IP"
+# INFO_MAC_ADDRESS
+"Adresse MAC"
+# INFO_PRODUCT_ID
+"ID produit"
+# INFO_SOFTWARE_VERSION
+"Version du logiciel"
+# INFO_HARDWARE_VERSION
+"Version du matériel"
+
+# BROWSER_MEDIA_SERVERS
+"Serveurs Média"
+# BROWSER_OPENING
+"En lecture"
+# BROWSER_GO_BACK
+"Revenir en arrière"
+# BROWSER_POPUP_MENU
+"Afficher dans le menu contextuel"
+# BROWSER_OPEN
+"Naviguer"
+# BROWSER_REPLACE_PLAYLIST
+"Remplacer la liste de lecture"
+# BROWSER_APPEND_TO_PLAYLIST
+"Ajouter à la liste de lecture"
+# BROWSER_SET_CHANNEL
+"Choisir le canal radio"
+# BROWSER_REPLACE_PLAYLIST_QUESTION
+"Remplacer la liste de lecture ?"
+# BROWSER_CHANNEL_SET
+"Canal radio '%s' choisi"
+# BROWSER_LOCAL_FOLDER
+"Local Folder"                                   // NEEDS TRANSLATION
+
+# PLAYLIST_REPLACED
+"Liste de lecture remplacée par '%s'"
+# PLAYLIST_ADDED
+"Ajouté à la liste de lecture '%s'"
+# PLAYLIST_CLEAR
+"Supprimer tout"
+# PLAYLIST_CLEAR_QUESTION
+"Supprimer la liste de lecture ?"
+# PLAYLIST_CLEARED
+"Liste de lecture supprimée"
+# PLAYLIST_SHUFFLE
+"Ordre aléatoire"
+# PLAYLIST_SHUFFLE_QUESTION
+"Mise en ordre aléatoire de la liste de lecture ?"
+# PLAYLIST_LOAD
+"Ouvrir..."
+# PLAYLIST_SAVE_AS
+"Enregistrer sous..."
+# PLAYLIST_LOAD_CAPTION
+"Ouvrir la liste de lecture"
+# PLAYLIST_SAVE_CAPTION
+"Sauver la liste de lecture"
+# PLAYLIST_FILTER_NAME
+"Listes de lecture"
+# PLAYLIST_FILTER_NAME_1
+"%s Liste de lecture"
+# PLAYLIST_PLAY
+"Lire la piste"
+# PLAYLIST_MOVE_UP
+"Remonter la piste sélectionnée"
+# PLAYLIST_MOVE_DOWN
+"Descendre la piste sélectionnée"
+# PLAYLIST_DELETE
+"Supprimer la piste"
+# PLAYLIST_DELETE_QUESTION
+"Supprimer la piste courante ?"
+# PLAYLIST_NOT_A_VALID_FILE
+"Liste de lecture non valide"
+# PLAYLIST_TRACKS_NOT_ADDED
+"%d pistes(s) n'ont pas été ajoutées à la liste de lecture car le serveur média correspondant n'est pas disponible."
+# PLAYLIST_READING
+"Lecture de la liste de lecture"
+# PLAYLIST_SHUFFLING
+"Mise  en ordre aléatoire de la liste de lecture"
+# PLAYLIST_LOADING
+"Chargement de la liste de lecture"
+# PLAYLIST_SAVED
+"Liste de lecture engegistrée sous '%s"
+# PLAYLIST_INFO
+"Les listes de lecture sauvegardées restent valides "
+"tant que vous n'avez pas reconstruit la base de données au niveau du serveur média, "
+"Cette fonctionalité ne peut être utilisée que pour sauvegarder les listes temporaires!\n\n"
+"Pour créer les listes de lectures définitives, il est préférable d'utiliser "
+"les fonctionalités de votre serveur média."
+# PLAYLIST_REPEAT_MODE
+"Mode répétition"
+# PLAYLIST_SHUFFLE_PLAY
+"Lecture aléatoire"
+# PLAYLIST_NO_TOOLBAR
+"- aucun -"
+# PLAYLIST_LEFT_TOOLBAR
+"à gauche"
+# PLAYLIST_RIGHT_TOOLBAR
+"à droit"
+
+# NOW_PLAYING_EOP
+"Fin de la liste de lecture"
+
+# DC_TITLE
+"Titre"
+# DC_CREATOR
+"Auteur"
+# UPNP_ARTIST
+"Artiste"
+# UPNP_ALBUM
+"Album"
+# UPNP_GENRE
+"Genre"
+# DC_DATE
+"Date"
+# DC_YEAR
+"Année"
+# UPNP_ORIGINAL_TRACK_NUMBER
+"Numéro original de la piste"
+# UPNP_COMPOSER
+"Compositeur"
+# RES_DURATION
+"Durée"
+# UNKNOWN
+"-inconnu-"
+
+# TRANSPORT_STATE_BUFFERING
+"Buffering..."                                   // NEEDS TRANSLATION
+# TRANSPORT_STATE_PAUSED
+"Paused"                                         // NEEDS TRANSLATION
+# TRANSPORT_STATE_PLAYING
+"Playing"                                        // NEEDS TRANSLATION
+# TRANSPORT_STATE_TRANSITIONING
+"Transitioning..."                               // NEEDS TRANSLATION
+# TRANSPORT_STATE_STOPPED
+"Stopped"                                        // NEEDS TRANSLATION
+
+# SERVER_RESCAN
+"Reparcours du contenu des répertoires"
+# SERVER_RESTART
+"Redémarrer le serveur"
+# SERVER_REBUILD
+"Reconstruction de la banque de données"
+# SERVER_REBUILD_QUESTION
+"Etes-vous certain de vouloir reconstruire la base de données du serveur media '%s'?"
+# SERVER_REBUILD_QUESTION_X
+"Cette action rendra invalides toutes vos listes de lecture sauvegardées avec Leia et relatives à ce serveur media!"
+
+# QUOTED
+"'%s'"
+# WLAN_CONNECTING
+"En connection"
+# TOGGLE_FULLSCREEN
+"Basculer le mode plein-écran"
+# TOGGLE_MUTE
+"Basculer le mode silencieux"
+# CLEAR_PLAYLIST
+"Effacer la liste de lecture"
+# QUIT_APPLICATION
+"Quitter l'application"
+# PRESENTATION_URL                               // NEEDS TRANSLATION
+"Presentation page"
+# MANUFACTURER_URL                               // NEEDS TRANSLATION
+"Manufacturer page"
+
+# RADIO
+"Radio Internet"
+# RADIO_NEW
+"Nouvelle station radio"
+# RADIO_EDIT
+"Editer la station radio"
+# RADIO_ALBUM_ART_URI
+"URL du logo"
+# RADIO_IMPORT
+"Importer..."
+# RADIO_EXPORT
+"Exporter..."
+# RADIO_EXPORT_WHICH
+"Quelle radio voulez-vous exporter?"
+# RADIO_EXPORT_ALL
+"Toutes"
+# RADIO_EXPORT_SELECTION
+"Seulement les radios sélectionnées"
+
+# RADIOTIME_PRESETS
+"Sélection RadioTime"                            // TO CHECK
+# RADIOTIME_DS_PRESETS
+"Sélection Radios Linn DS"                       // TO CHECK
+# RADIOTIME_HOME_PAGE
+"Racine RadioTime"                               // TO CHECK
+# RADIOTIME_SUBTEXT
+"Info"                                           // NEEDS TRANSLATION
+# RADIOTIME_BITRATE
+"Bitrate"                                        // NEEDS TRANSLATION
+# RADIOTIME_RELIABILITY
+"Reliability"                                    // NEEDS TRANSLATION
+# RADIOTIME_CURRENT_TRACK
+"Current Track"                                  // NEEDS TRANSLATION
+
+# LASTFM_RADIO
+"Radio Last.fm"
+# LASTFM_RADIO_NEW
+"Nouveau..."
+# LASTFM_RADIO_STOPPED
+"Radio Last.fm arrêté"
+# LASTFM_RADIO_TYPE
+"Type"
+# LASTFM_RADIO_SIMILAR_ARTISTS
+"Artistes similaires"
+# LASTFM_RADIO_TOP_FANS
+"Top Fans"
+# LASTFM_RADIO_GLOBAL_TAG
+"Mes Balises globales"
+# LASTFM_RADIO_LIBRARY
+"Ma Librairie"
+# LASTFM_RADIO_NEIGHBOURS
+"Mon voisinage"
+# LASTFM_RADIO_LOVED_TRACKS
+"Mes pistes préférées"
+# LASTFM_RADIO_RECOMMENDATION
+"Mes recommendations"
+# LASTFM_ARTIST
+"Artiste"
+# LASTFM_TAG
+"Balise"
+# LASTFM_USER
+"Utilisateur"
+# LASTFM_HOME_PAGE
+"Last.fm Home"
+# LASTFM_PROFILE_PAGE
+"Profile Last.fm"
+# LASTFM_RECOMMENDED_PAGE
+"Mes recommendations"
+# LASTFM_LIBRARY_PAGE
+"Ma Librairie"
+# LASTFM_EVENTS_PAGE
+"Evènements Last.fm"
+# LASTFM_SETTINGS
+"Configuration Last.fm"
+# LASTFM_ARTIST_PAGE
+"Page de l'Artiste"
+# LASTFM_ALBUM_PAGE
+"Page de l'Album"
+# LASTFM_TRACK_PAGE
+"Page de la piste"
+# LASTFM_BUY_TRACK_URL
+"Acheter la piste audio"
+# LASTFM_BUY_ALBUM_URL
+"Acheter l'Album"
+# LASTFM_FREE_TRACK_URL
+"Obtenir la piste gratuite"
+# LASTFM_TITLE_STRIP
+"Radio Last.fm en cours de démarrage'%s'..."
+
+# MENU_DEVICES
+"Périphériques"
+# MENU_DEVICE_INFO
+"Info périphériques..."
+# MENU_CUSTOMISE
+"Personnaliser..."
+# MENU_OPTIONS
+"Options..."
+
+# KEYS
+"Touches"
+# KEYBD_NOP
+"Pas d'action"
+# KEYBD_FULLSCREEN
+"Plein-écran"
+# KEYBD_PAGE
+"Page Précédente/Suivante"
+# KEYBD_PLAY_PAUSE
+"Lecture / Pause"
+# KEYBD_TRACK
+"Piste Précédente/Suivante"
+# KEYBD_MUTE
+"Silencieux"
+# KEYBD_VOLUME
+"Volume +/-"
+# KEYBD_REFRESH
+"Rafraîchir"
+# KEYBD_SELECTION
+"Fonctionalités"
+# KEYBD_SELECT_RENDERER
+"Selection du Media de lecture"
+
+# CUSTOMISE
+"Personnaliser"
+# OPTIONS
+"Options"
+# SETTINGS_SAVED
+"Configuration sauvegardée avec succès"
+ 
+# STARTUP
+"Démarrage"
+# SETTINGS_CLASSIC_UI
+"Classic user interface"                         // NEEDS TRANSLATION
+# SETTINGS_TOOLBAR_AT_BOTTOM
+"Barre d'outils en bas"
+# SETTINGS_FULLSCREEN_MODE
+"Mode plein écran"
+# SETTINGS_MAXIMIZE_WINDOW
+"Maximizer la fenêtre"
+
+# GENERAL
+"General"                                        // NEEDS TRANSLATION
+# SETTINGS_CLOCK
+"Horloge en mode plein-écran"
+# SETTINGS_CLOCK_NONE
+"- aucun -"
+# SETTINGS_CLOCK_LOCALE
+"Format local"
+# SETTINGS_CLOCK_12H
+"Mode 12h"
+# SETTINGS_CLOCK_24H
+"Mode 24h"
+# SETTINGS_PREFERRED_PAGE
+"Preferred page"                                 // NEEDS TRANSLATION
+
+# SETTINGS_ACTIVATE_ITEMS_WITH_SINGLE_CLICK
+"Activer les éléments avec un simple click"
+# SETTINGS_GO_BACK_ITEM
+"Ajouter la fonction 'revenir en arrière'"
+# SETTINGS_PLAYLIST_CONTAINER_ACTION
+"A l'activation d'une liste de lecture"
+# SETTINGS_MUSIC_ALBUM_ACTION
+"A l'activation d'un album"
+# SETTINGS_MUSIC_TRACK_ACTION
+"A l'activation d'une piste"
+# SETTINGS_AUDIO_BROADCAST_ACTION
+"A l'activation d'une station radio"
+# SETTINGS_PAGE_AFTER_REPLACING_PLAYLIST
+"Après remplacement de la liste de lecture"
+
+# SETTINGS_HANDLE_STORAGE_FOLDER_WITH_ARTIST_AS_ALBUM
+"Compatibilté TwonkyMedia 4.x"
+# SETTINGS_HANDLE_STORAGE_FOLDER_WITH_GENRE_AS_ALBUM
+"Compatibilté TwonkyMedia 5.x"
+
+# SETTINGS_PLAYLIST_TOOLBAR
+"Placement de la barre d'outils"
+
+# SETTINGS_ALBUM_ART_SIZE
+"Dimension de l'image (en pixel)"
+# SETTINGS_SHRINK_ALBUM_ART_ONLY
+"Ne pas redimensionner l'image (sauf réduction quand nécessaire)"
+# SETTINGS_SHOW_TRACK_NUMBER
+"Afficher le numéro de la piste"
+# SETTINGS_SHOW_TRACK_DURATION
+"Afficher la durée de la piste (si disponible)"
+# SETTINGS_SHOW_ALBUM_YEAR
+"Afficher l'année d'édition (si disponible)"
+# SETTINGS_DOUBLE_CLICK
+"Double-click action"                            // NEEDS TRANSLATION
+
+# SETTINGS_VOLUME_UI
+"Interface utilisateur"
+# SETTINGS_VOLUME_UI_NONE
+"- aucun -"
+# SETTINGS_VOLUME_UI_PLUSMINUS
+"+/- boutons"
+# SETTINGS_VOLUME_UI_BUTTON
+"Bouton de volume"
+# SETTINGS_VOLUME_UI_BAR
+"Curseur de volume"
+# SETTINGS_VOLUME_SHOW_LEVEL
+"Voir en outre le niveau"
+# SETTINGS_VOLUME_QUIET
+"niveau de silence équivaut à"
+# SETTINGS_VOLUME_LIMIT
+"Niveau limite à"
+
+# SETTINGS_ZOOM_KEY
+"Touches de zoom"
+# SETTINGS_FULL_SCREEN_KEY
+"Touche de plain écran"
+# SETTINGS_LEFT_RIGHT_KEY
+"Touches de directions horizontales"
+# SETTINGS_UP_DOWN_KEY
+"Touches de directions verticales"
+# SETTINGS_ENTER_KEY
+"Appuyer sur la touche"
+# SETTINGS_PAGE_UP_DOWN_KEY
+"Touches Page up/down"
+# SETTINGS_USE_SYSTEM_KEYS
+"Le cas échéant, montrer le comportement par défaut"
+
+# SETTINGS_RADIOTIME_0
+"Disable RadioTime support"                      // NEEDS TRANSLATION
+# SETTINGS_RADIOTIME_1
+"Enable RadioTime support"                       // NEEDS TRANSLATION
+# SETTINGS_RADIOTIME_2
+"Use RadioTime via Linn DS"                      // NEEDS TRANSLATION
+
+# SETTINGS_LASTFM
+"Support Last.fm"
+# SETTINGS_GET_MISSING_ALBUM_ART
+"Obtenir la pochette manquante"
+# SETTINGS_USERNAME
+"Nom de l'utilisateur"
+# SETTINGS_PASSWORD
+"Mot de passe"
+# SETTINGS_NOW_PLAYING_SUBMISSION
+"Soumission du mode en-cours de lecture"
+# SETTINGS_SCROBBLING
+"Scrobbling"
+# SETTINGS_DISCOVERY_MODE
+"Activer le mode 'Découverte' (Radio)"           // TO CHECK
+
+# SETTINGS_SSDP
+"Device Search"                                  // NEEDS TRANSLATION
+# SETTINGS_SSDP_MEDIA_SERVER
+"Search for UPnP Media Server"                   // NEEDS TRANSLATION
+# SETTINGS_SSDP_MEDIA_RENDERER
+"Search for UPnP Media Renderer"                 // NEEDS TRANSLATION
+# SETTINGS_SSDP_LINN_PRODUCTS
+"Search for Linn products"                       // NEEDS TRANSLATION
+# SETTINGS_SSDP_MX
+"Min. search duration"                           // NEEDS TRANSLATION
+# SETTINGS_SSDP_TIMEOUT
+"Max. search duration"                           // NEEDS TRANSLATION
+# SETTINGS_DEFAULT_RENDERER
+"Default Media Renderer"                         // NEEDS TRANSLATION
+# SETTINGS_NO_DEFAULT_RENDERER
+"- Show dialog -"                                // NEEDS TRANSLATION
+
+# QUESTION_QUIT
+"Quit Leia?"                                     // NEEDS TRANSLATION
+
+# ERROR_MESSAGE
+"Une erreur est apparue %s"
+# ERROR_CODE
+"Code erreur"
+# FILE_NAME
+"Nom de fichier"
+
+# ERROR_BROWSE_FOLDER
+"parcourant le répertoire '%s'"
+# ERROR_BROWSE_ALBUM
+"lors de la recherche de la lsite des pistes de l'album '%s'"
+# ERROR_PLAY_LASTFM_RADIO
+"à la lecture de la radio Last.fm"
+# ERROR_GET_ALBUM_COVER
+"à la recherche de la pochette de l'album"
+# ERROR_CONNECT_DEVICE
+"en se connectant au périphérique '%s'"
+# ERROR_HANDLE_RENDERER_EVENT
+"à l'exécution d'un évènement au périphérique '%s'"
+# ERROR_OPEN_URL
+"à l'ouverture de l'hyperlien %s"
+# ERROR_PLAYLIST_CLEAR
+"à l'effacement de la liste de lecture"
+# ERROR_PLAYLIST_ADD
+"à l'ajout de pistes dans la liste de lecture"
+# ERROR_PLAYLIST_DELETE
+"à l'effacement de pistes de la liste de lecture"
+# ERROR_PLAYLIST_MOVE
+"en déplaçant les pistes de la liste de lecture"
+# ERROR_PLAYLIST_SHUFFLE
+"à la lecture aléatoire de la liste de lecture"
+# ERROR_PLAYLIST_REPEAT_MODE
+"en changeant le mode répétition"
+# ERROR_PLAYLIST_LOAD
+"au chargement de la liste de lecture"
+# ERROR_PLAYLIST_SAVE
+"à la sauvegarde de la liste de lecture"
+# ERROR_PLAY
+"au démarrage de la lecture"
+# ERROR_PAUSE
+"à la mise sur pause"
+# ERROR_STOP
+"à l'arrêt de la lecture"
+# ERROR_SEEK_TRACK
+"au changement de la piste courante"
+# ERROR_TOGGLE_MUTE
+"au changement du mode silencieux"
+# ERROR_VOLUME
+"au changement du volume sonore"
+# ERROR_UPNP_STARTUP
+"initialiser la pile UPNP"
+# ERROR_UPNP_SEARCH
+"Recherche de périphériques"
+# ERROR_SAVE_SETTINGS
+"savegarde de la configuration"
+# ERROR_SAVE_LASTFM_HISTORY
+"savegarde de l'historqiue Radio Last.fm"
+# ERROR_HANDLING_ITEM
+"Maniant l'élément '%s'"
+# ERROR_DEVICE_INFO
+"Récupération des informations du périphérique" 
+# ERROR_DEVICE_INFO_FROM
+"Récupération des informations ud périphérique '%s'"
+# ERROR_SET_RADIO_CHANNEL
+"Sélection du canal radio '%s'"
+# ERROR_GET_METADATA_FROM_FILE
+"getting metadata from file %s"                  // NEEDS TRANSLATION
+
+# ERRMSG_INTERNAL
+"Erreur interne"
+# ERRMSG_CREATE_FILE
+"Ne peut créer le fichier"
+# ERRMSG_OPEN_FILE
+"Can't open file"                                // NEEDS TRANSLATION
+# ERRMSG_READ_FILE
+"Erreur à la lecture du fichier"
+# ERRMSG_WRITE_FILE
+"Erreur à l'écriture du fichier"
+# ERRMSG_LASTFM_RADIO
+"Cette fonction n'est pas disponible pendant l'écoute de la radio Last.fm"
+# ERRMSG_UNKNOWN_FORMAT
+"Format de données non reconnu"
+# ERRMSG_OUT_OF_MEMORY
+"Mémoire pleine"
+# ERRMSG_ITEM_ACTIVATED
+"Il n'y a aucune action associé à cet élément"
+# ERRMSG_UNKNOWN_FILE_FORMAT
+"Unknown file format"                            // NEEDS TRANSLATION
+

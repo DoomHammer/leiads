@@ -1,0 +1,154 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: leiads - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x809 /fo"Debug/leiads.res" /d "_DEBUG" "C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\win32\leiads.rc"" 
+Creating temporary file "C:\DOKUME~1\Axel\LOKALE~1\Temp\RSP2FC.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /Zi /Od /D "_DEBUG" /D "WIN32" /D "_WINDOWS" /D "_MBCS" /D "RADIOTIME_LINN_DS" /D "NOLOGFILE" /D LOGLEVEL=2 /FR"Debug/" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\about.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\browser.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\debug.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\info.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\intl.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\keybd.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\lastfm.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\leia-ds.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\princess\linn_preamp.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\princess\linn_source.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\md5.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\princess\media_renderer.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\miscellaneous.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\now_playing.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\playlist.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\playlist_file.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\radiotime.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\select_renderer.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\settings.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\transport.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\princess\upnp.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\princess\upnp_list.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\princess\upnp_media_renderer.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\princess\upnp_media_server.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\princess\upnp_private.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\princess\upnp_xml.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\volume.c"
+"C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\metadata.c"
+]
+Creating command line "cl.exe @C:\DOKUME~1\Axel\LOKALE~1\Temp\RSP2FC.tmp" 
+Creating temporary file "C:\DOKUME~1\Axel\LOKALE~1\Temp\RSP2FD.tmp" with contents
+[
+gtk-win32-2.0.lib gdk-win32-2.0.lib atk-1.0.lib gdk_pixbuf-2.0.lib pangowin32-1.0.lib pangocairo-1.0.lib pango-1.0.lib cairo.lib gthread-2.0.lib gobject-2.0.lib gmodule-2.0.lib glib-2.0.lib shell32.lib /nologo /subsystem:windows /incremental:no /pdb:"Debug/leiads.pdb" /debug /machine:I386 /out:"Debug/leiads.exe" /pdbtype:sept 
+".\Debug\about.obj"
+".\Debug\browser.obj"
+".\Debug\debug.obj"
+".\Debug\info.obj"
+".\Debug\intl.obj"
+".\Debug\keybd.obj"
+".\Debug\lastfm.obj"
+".\Debug\leia-ds.obj"
+".\Debug\linn_preamp.obj"
+".\Debug\linn_source.obj"
+".\Debug\md5.obj"
+".\Debug\media_renderer.obj"
+".\Debug\miscellaneous.obj"
+".\Debug\now_playing.obj"
+".\Debug\playlist.obj"
+".\Debug\playlist_file.obj"
+".\Debug\radiotime.obj"
+".\Debug\select_renderer.obj"
+".\Debug\settings.obj"
+".\Debug\transport.obj"
+".\Debug\upnp.obj"
+".\Debug\upnp_list.obj"
+".\Debug\upnp_media_renderer.obj"
+".\Debug\upnp_media_server.obj"
+".\Debug\upnp_private.obj"
+".\Debug\upnp_xml.obj"
+".\Debug\volume.obj"
+".\Debug\leiads.res"
+".\Debug\metadata.obj"
+]
+Creating command line "link.exe @C:\DOKUME~1\Axel\LOKALE~1\Temp\RSP2FD.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+about.c
+browser.c
+debug.c
+info.c
+intl.c
+keybd.c
+lastfm.c
+leia-ds.c
+linn_preamp.c
+linn_source.c
+md5.c
+media_renderer.c
+miscellaneous.c
+now_playing.c
+playlist.c
+playlist_file.c
+radiotime.c
+select_renderer.c
+settings.c
+transport.c
+Generating Code...
+Compiling...
+upnp.c
+upnp_list.c
+upnp_media_renderer.c
+upnp_media_server.c
+upnp_private.c
+upnp_xml.c
+volume.c
+metadata.c
+C:\Dokumente und Einstellungen\Axel\Eigene Dateien\Projekte\leiads-0.6\src\metadata.c(176) : warning C4101: 'buffer' : unreferenced local variable
+Generating Code...
+Linking...
+Creating temporary file "C:\DOKUME~1\Axel\LOKALE~1\Temp\RSP2FF.tmp" with contents
+[
+/nologo /o"Debug/leiads.bsc" 
+".\Debug\about.sbr"
+".\Debug\browser.sbr"
+".\Debug\debug.sbr"
+".\Debug\info.sbr"
+".\Debug\intl.sbr"
+".\Debug\keybd.sbr"
+".\Debug\lastfm.sbr"
+".\Debug\leia-ds.sbr"
+".\Debug\linn_preamp.sbr"
+".\Debug\linn_source.sbr"
+".\Debug\md5.sbr"
+".\Debug\media_renderer.sbr"
+".\Debug\miscellaneous.sbr"
+".\Debug\now_playing.sbr"
+".\Debug\playlist.sbr"
+".\Debug\playlist_file.sbr"
+".\Debug\radiotime.sbr"
+".\Debug\select_renderer.sbr"
+".\Debug\settings.sbr"
+".\Debug\transport.sbr"
+".\Debug\upnp.sbr"
+".\Debug\upnp_list.sbr"
+".\Debug\upnp_media_renderer.sbr"
+".\Debug\upnp_media_server.sbr"
+".\Debug\upnp_private.sbr"
+".\Debug\upnp_xml.sbr"
+".\Debug\volume.sbr"
+".\Debug\metadata.sbr"]
+Creating command line "bscmake.exe @C:\DOKUME~1\Axel\LOKALE~1\Temp\RSP2FF.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+leiads.exe - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>

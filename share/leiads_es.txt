@@ -1,0 +1,619 @@
+﻿[leiads language file]
+
+# TRANSLATOR_CREDITS
+"Hugo G. Espiñeira"
+
+# COMMENTS
+"Un IGU para la familia LINN DS"
+
+# LICENSE
+"Leia es un programa gratuito: Usted puede redistribuirlo "
+"y/o modificarlo bajo los terminos contenidos en la Licencia "
+"Pública General de GNU según publicada por la Free "
+"Software Foundation, ya sea la revisión 3 de la Licencia, "
+"o (a su discreción) cualquier revisión posterior de la misma.\n"
+"\n"
+"Leia es distribuido con el fín de ser util, "
+"pero SIN GARANTIA ALGUNA; sin tan siquiera la "
+"garantia implícita de COMERCIABILIDAD "
+"ó FIN PARA UN PROPÓSITO EN PARTICULAR.\n"
+"\n"
+"Consultar la Licencia Pública General de GNU para más información:\n"
+"http://www.gnu.org/licenses/\n"
+"\n"
+"(This translation of the GPL is informal, and not "
+"officially approved by the Free Software Foundation "
+"as valid. To be completely sure of what is permitted, "
+"refer to the original GPL in English.)"
+
+# MENU_FILE
+"Archivo"
+# MENU_QUIT
+"Salir"
+# MENU_VIEW
+"Ver"
+# MENU_TOOLS
+"Herramientas"
+# MENU_INFO
+"Información"
+# MENU_ABOUT
+"Acerca de..."
+
+# BROWSER
+"Libreria"
+# PLAYLIST
+"Lista"
+# NOW_PLAYING
+"Reproduciendo"
+# MEDIA_PLAY
+"Reproducir"
+# MEDIA_PAUSE
+"Pausa"
+# MEDIA_STOP
+"Detener"
+# MEDIA_PREVIOUS
+"Pista Anterior"
+# MEDIA_NEXT
+"Pista Siguiente"
+# MUTE
+"Silenciar"
+# QUIET
+"Silencioso"
+# LOUD
+"Alto"
+# VOLUME
+"Volumen"
+# VOLUME_MINUS
+"Disminuir volumen"
+# VOLUME_PLUS
+"Aumentar volumen"
+# VOLUME_INFO
+"Volumen %d"
+
+# SEARCHING_SERVER
+"Buscando servidor de medios"
+# SEARCHING_RENDERER
+"Buscando dispositivo Linn DS"
+# SEARCHING_SERVER_AND_RENDERER
+"Buscando servidor de medios y dispositivo Linn DS"
+# NO_SERVER_FOUND
+"No se encontró servidor de medios"
+# NO_RENDERER_FOUND
+"No se encontró dispositivo Linn DS"
+# NO_SERVER_AND_RENDERER_FOUND
+"Servidor de medios y/o dispositivo Linn DS no fueron encontrados"
+# SET_AS_DEFAULT
+"Set selection as default"                       // NEEDS TRANSLATION
+
+# INFO
+"Información"
+# INFO_FRIENDLY_NAME
+"Nombre"
+# INFO_MODEL_NAME
+"Modelo"
+# INFO_MODEL_NUMBER
+"Número de Modelo"
+# INFO_SERIAL_NUMBER
+"Número de Serie"
+# INFO_MANUFACTURER
+"Fabricante"
+# INFO_URL
+"URL"
+# INFO_IP_ADDRESS
+"Dirección IP"
+# INFO_MAC_ADDRESS
+"Dirección MAC"
+# INFO_PRODUCT_ID
+"ID Producto"
+# INFO_SOFTWARE_VERSION
+"Versión Software"
+# INFO_HARDWARE_VERSION
+"Versión Hardware"
+
+# BROWSER_MEDIA_SERVERS
+"Servidores de Medios"
+# BROWSER_OPENING
+"Leyendo"
+# BROWSER_GO_BACK
+"-Atrás-"
+# BROWSER_POPUP_MENU
+"Mostrar menú"
+# BROWSER_OPEN
+"Detalles"
+# BROWSER_REPLACE_PLAYLIST
+"Reemplazar la lista"
+# BROWSER_APPEND_TO_PLAYLIST
+"Añadir a la lista"
+# BROWSER_SET_CHANNEL
+"Establecer canal de radio"
+# BROWSER_REPLACE_PLAYLIST_QUESTION
+"¿Está seguro de que desea reemplazar la lista de reproduccíon?"
+# BROWSER_CHANNEL_SET
+"Se ha establecido '%s' canal de radio"
+# BROWSER_LOCAL_FOLDER
+"Local Folder"                                   // NEEDS TRANSLATION
+
+# PLAYLIST_REPLACED
+"La lista reproducción ha sido reemplazada por '%s'"
+# PLAYLIST_ADDED
+"Se ha añadido '%s' a lista de reproducción "
+# PLAYLIST_CLEAR
+"Borrar todas las pistas de la lista de reproducción"
+# PLAYLIST_CLEAR_QUESTION
+"¿Desea borrar la lista de reproduccíon actual?"
+# PLAYLIST_CLEARED
+"Lista borrada con exito"
+# PLAYLIST_SHUFFLE
+"Reproducción aleatoria"
+# PLAYLIST_SHUFFLE_QUESTION
+"¿Desea que las pistas contenidas en la lista de reproducción se ordenen de manera aleatoria?"
+# PLAYLIST_LOAD
+"Cargar lista..."
+# PLAYLIST_SAVE_AS
+"Gurdar lista como..."
+# PLAYLIST_LOAD_CAPTION
+"Cargar lista"
+# PLAYLIST_SAVE_CAPTION
+"Guardar lista"
+# PLAYLIST_FILTER_NAME
+"Listas"
+# PLAYLIST_FILTER_NAME_1
+"%s Listas"
+# PLAYLIST_PLAY
+"Escuchar pista"
+# PLAYLIST_MOVE_UP
+"Desplazar pista hacia arriba"
+# PLAYLIST_MOVE_DOWN
+"Desplazar pista hacia abajo"
+# PLAYLIST_DELETE
+"Eliminar pista"
+# PLAYLIST_DELETE_QUESTION
+"¿Esta seguro de que desea eliminar la pista actual?"
+# PLAYLIST_NOT_A_VALID_FILE
+"El archivo de lista no es válido"
+# PLAYLIST_TRACKS_NOT_ADDED
+"%d pista(s) no fue(ron) añadida(s) a la lista debido a que el servidor de medios correspondiente no está disponible."
+# PLAYLIST_READING
+"Leyendo lista"
+# PLAYLIST_SHUFFLING
+"Desordenando pistas ;)"
+# PLAYLIST_LOADING
+"Cargando lista"
+# PLAYLIST_SAVED
+"Lista guardada como '%s'"
+# PLAYLIST_INFO
+"Debido a que las listas guardadas de esta manera son solo válidas siempre "
+"y cuando no lleve a cabo una reconstrucción de la base de datos de su servidor "
+"de medios, esta opción solo debe ser utilizada para guardar listas temporalmente\n\n"
+"Para crear listas persistentes es preferible generar "
+"estas en su servidor de medios."
+# PLAYLIST_REPEAT_MODE
+"Repetir reproducción"
+# PLAYLIST_SHUFFLE_PLAY
+"Modo aleatorio"
+# PLAYLIST_NO_TOOLBAR
+"- ninguna -"
+# PLAYLIST_LEFT_TOOLBAR
+"Izquierda"
+# PLAYLIST_RIGHT_TOOLBAR
+"Derecha"
+
+# NOW_PLAYING_EOP
+"Fin de la lista"
+
+# DC_TITLE
+"Titulo"
+# DC_CREATOR
+"Creador"
+# UPNP_ARTIST
+"Artista"
+# UPNP_ALBUM
+"Album"
+# UPNP_GENRE
+"Género"
+# DC_DATE
+"Fecha"
+# DC_YEAR
+"Año"
+# UPNP_ORIGINAL_TRACK_NUMBER
+"Número de pista en el soporte fisico"
+# UPNP_COMPOSER
+"Compositor"
+# RES_DURATION
+"Duración"
+# UNKNOWN
+"- desconocido -"
+
+# TRANSPORT_STATE_BUFFERING
+"Buffering..."                                   // NEEDS TRANSLATION
+# TRANSPORT_STATE_PAUSED
+"Paused"                                         // NEEDS TRANSLATION
+# TRANSPORT_STATE_PLAYING
+"Playing"                                        // NEEDS TRANSLATION
+# TRANSPORT_STATE_TRANSITIONING
+"Transitioning..."                               // NEEDS TRANSLATION
+# TRANSPORT_STATE_STOPPED
+"Stopped"                                        // NEEDS TRANSLATION
+
+# SERVER_RESCAN
+"Reescanear directorio de contenidos"
+# SERVER_RESTART
+"Reiniciar servidor"
+# SERVER_REBUILD
+"Reconstruir la base de datos"
+# SERVER_REBUILD_QUESTION
+"¿Está seguro de que desea reconstruir la base de datos del servidor de medios '%s'?"
+# SERVER_REBUILD_QUESTION_X
+"Tenga en cuenta que esta acción dejara inservibles todas las listas de reproducción "
+"guardadas con Leia, y que dependan del contenido de ese servidor de medios"
+
+# QUOTED
+"'%s'"
+# WLAN_CONNECTING
+"Conectando"
+# TOGGLE_FULLSCREEN
+"Pantala completa"
+# TOGGLE_MUTE
+"Silenciar"
+# CLEAR_PLAYLIST
+"Borrar lista de reproducción"
+# QUIT_APPLICATION
+"Salir de Leia"
+# PRESENTATION_URL                               // NEEDS TRANSLATION
+"Presentation page"
+# MANUFACTURER_URL                               // NEEDS TRANSLATION
+"Manufacturer page"
+
+# RADIO
+"Internet Radio"                                 // NEEDS TRANSLATION
+# RADIO_NEW
+"New Radio Station"                              // NEEDS TRANSLATION
+# RADIO_EDIT
+"Edit Radio Station"                             // NEEDS TRANSLATION
+# RADIO_ALBUM_ART_URI
+"Logo URL"                                       // NEEDS TRANSLATION
+# RADIO_IMPORT
+"Import..."                                      // NEEDS TRANSLATION
+# RADIO_EXPORT
+"Export..."                                      // NEEDS TRANSLATION
+# RADIO_EXPORT_WHICH
+"Which radio stations do you like to export as file?"  // NEEDS TRANSLATION
+# RADIO_EXPORT_ALL
+"All"                                            // NEEDS TRANSLATION
+# RADIO_EXPORT_SELECTION
+"Only the selected ones"                         // NEEDS TRANSLATION
+
+# RADIOTIME_PRESETS
+"RadioTime Presets"                              // NEEDS TRANSLATION
+# RADIOTIME_DS_PRESETS
+"Linn DS Radio Presets"                          // NEEDS TRANSLATION
+# RADIOTIME_HOME_PAGE
+"RadioTime Home"                                 // NEEDS TRANSLATION
+# RADIOTIME_SUBTEXT
+"Info"                                           // NEEDS TRANSLATION
+# RADIOTIME_BITRATE
+"Bitrate"                                        // NEEDS TRANSLATION
+# RADIOTIME_RELIABILITY
+"Reliability"                                    // NEEDS TRANSLATION
+# RADIOTIME_CURRENT_TRACK
+"Current Track"                                  // NEEDS TRANSLATION
+
+# LASTFM_RADIO
+"Last.fm Radio"
+# LASTFM_RADIO_NEW
+"Nuevo..."
+# LASTFM_RADIO_STOPPED
+"El servicio Last.fm Radio se ha detenido"
+# LASTFM_RADIO_TYPE
+"Tipo"
+# LASTFM_RADIO_SIMILAR_ARTISTS
+"Artistas similares"
+# LASTFM_RADIO_TOP_FANS
+"Radio Top Fans"
+# LASTFM_RADIO_GLOBAL_TAG
+"Global Tag Radio"
+# LASTFM_RADIO_LIBRARY
+"Library Radio"
+# LASTFM_RADIO_NEIGHBOURS
+"Neighbours Radio"
+# LASTFM_RADIO_LOVED_TRACKS
+"Loved Tracks Radio"
+# LASTFM_RADIO_RECOMMENDATION
+"Recommendation Radio"
+# LASTFM_ARTIST
+"Artist"
+# LASTFM_TAG
+"Tag"
+# LASTFM_USER
+"User"
+# LASTFM_HOME_PAGE
+"Last.fm Home"
+# LASTFM_PROFILE_PAGE
+"Last.fm Profile"
+# LASTFM_RECOMMENDED_PAGE
+"Last.fm Recommended"
+# LASTFM_LIBRARY_PAGE
+"Last.fm Library"
+# LASTFM_EVENTS_PAGE
+"Last.fm Events"
+# LASTFM_SETTINGS
+"Last.fm Settings"
+# LASTFM_ARTIST_PAGE
+"Last.fm Artist page"
+# LASTFM_ALBUM_PAGE
+"Last.fm Album page"
+# LASTFM_TRACK_PAGE
+"Last.fm Track page"
+# LASTFM_BUY_TRACK_URL
+"Buy track"
+# LASTFM_BUY_ALBUM_URL
+"Buy album"
+# LASTFM_FREE_TRACK_URL
+"Get free track"
+# LASTFM_TITLE_STRIP
+"Starting Last.fm Radio \"%s\"..."               // NEEDS TRANSLATION
+
+# MENU_DEVICES
+"Dispositivos"
+# MENU_DEVICE_INFO
+"Información"
+# MENU_CUSTOMISE
+"Personalizar..."
+# MENU_OPTIONS
+"Opciones..."
+
+# KEYS
+"Teclas"
+# KEYBD_NOP
+"No activa"
+# KEYBD_FULLSCREEN
+"Pantalla completa"
+# KEYBD_PAGE
+"Anterior/Siguiente página"
+# KEYBD_PLAY_PAUSE
+"Reproducir / Pausa"
+# KEYBD_TRACK
+"Anterior/Siguiente pista"
+# KEYBD_MUTE
+"Silenciar"
+# KEYBD_VOLUME
+"Volumen disminuir/aumentar"
+# KEYBD_REFRESH
+"Actualizar"
+# KEYBD_SELECTION
+"Seleccionar característica"
+# KEYBD_SELECT_RENDERER
+"Seleccionar reproductor de medios"
+
+# CUSTOMISE
+"Personalizar"
+# OPTIONS
+"Opciones"
+# SETTINGS_SAVED
+"Se han guardado sus preferencias"
+
+# STARTUP
+"Inico"
+# SETTINGS_CLASSIC_UI
+"Classic user interface"                         // NEEDS TRANSLATION
+# SETTINGS_TOOLBAR_AT_BOTTOM
+"Barra de herramientas abajo"
+# SETTINGS_FULLSCREEN_MODE
+"Modo a pantalla completa"
+# SETTINGS_MAXIMIZE_WINDOW
+"Maximizar ventana"
+
+# GENERAL
+"General"                                        // NEEDS TRANSLATION
+# SETTINGS_CLOCK
+"Opciones de reloj para pantalla completa"
+# SETTINGS_CLOCK_NONE
+"- ninguno -"
+# SETTINGS_CLOCK_LOCALE
+"Formato horario"
+# SETTINGS_CLOCK_12H
+"Formato de 12 horas"
+# SETTINGS_CLOCK_24H
+"Formato de 24 horas"
+# SETTINGS_PREFERRED_PAGE
+"Preferred page"                                 // NEEDS TRANSLATION
+
+# SETTINGS_ACTIVATE_ITEMS_WITH_SINGLE_CLICK
+"Activar opciones usando un solo click"
+# SETTINGS_GO_BACK_ITEM
+"Mostrar objeto - atrás - "
+# SETTINGS_PLAYLIST_CONTAINER_ACTION
+"Cuando se active una lista de reproducción"
+# SETTINGS_MUSIC_ALBUM_ACTION
+"Cuando se active un album"
+# SETTINGS_MUSIC_TRACK_ACTION
+"Cuando se active una pista"
+# SETTINGS_AUDIO_BROADCAST_ACTION
+"Cuando se active una estación de radio"
+# SETTINGS_PAGE_AFTER_REPLACING_PLAYLIST
+"Cuando se reemplace una lista de reproducción"
+
+# SETTINGS_HANDLE_STORAGE_FOLDER_WITH_ARTIST_AS_ALBUM
+"Tratar carpetas con informacíon sobre el artista como un album"
+# SETTINGS_HANDLE_STORAGE_FOLDER_WITH_GENRE_AS_ALBUM
+"Tratar carpetas con información sobre el genero como un album"
+
+# SETTINGS_PLAYLIST_TOOLBAR
+"Posición de la barra de herramientas"
+
+# SETTINGS_ALBUM_ART_SIZE
+"Tamaño de la portada (en pixeles)"
+# SETTINGS_SHRINK_ALBUM_ART_ONLY
+"No escalar la portada (solo hacerla mas pequeña si es necesario)"
+# SETTINGS_SHOW_TRACK_NUMBER
+"Mostrar número de pista"
+# SETTINGS_SHOW_TRACK_DURATION
+"Mostrar duración de pista (si es posible)"
+# SETTINGS_SHOW_ALBUM_YEAR
+"Mostrar año de publicación del album (si es posible)"
+# SETTINGS_DOUBLE_CLICK
+"Double-click action"                            // NEEDS TRANSLATION
+
+# SETTINGS_VOLUME_UI
+"La interfaz de usuario"
+# SETTINGS_VOLUME_UI_NONE
+"- ninguno -"
+# SETTINGS_VOLUME_UI_PLUSMINUS
+"+/- botones"
+# SETTINGS_VOLUME_UI_BUTTON
+"Botón de volumen"
+# SETTINGS_VOLUME_UI_BAR
+"Deslizador de volumen"
+# SETTINGS_VOLUME_SHOW_LEVEL
+"Muestra el nivel, además"
+# SETTINGS_VOLUME_QUIET
+"Tranquilo nivel es equivalente a"
+# SETTINGS_VOLUME_LIMIT
+"Límite de nivel a"
+
+# SETTINGS_ZOOM_KEY
+"Teclas para Aumentar/Disminuir"
+# SETTINGS_FULL_SCREEN_KEY
+"Tecla para Pantalla completa"
+# SETTINGS_LEFT_RIGHT_KEY
+"teclas para desplazamiento izquierda/derecha"
+# SETTINGS_UP_DOWN_KEY
+"Teclas para desplamiento arriba/abajo"
+# SETTINGS_ENTER_KEY
+"Tecla para confirmar"
+# SETTINGS_PAGE_UP_DOWN_KEY
+"Page up/down keys"                              // NEEDS TRANSLATION
+# SETTINGS_USE_SYSTEM_KEYS
+"Where appropriate, show default behaviour instead"  // NEEDS TRANSLATION
+
+# SETTINGS_RADIOTIME_0
+"Disable RadioTime support"                      // NEEDS TRANSLATION
+# SETTINGS_RADIOTIME_1
+"Enable RadioTime support"                       // NEEDS TRANSLATION
+# SETTINGS_RADIOTIME_2
+"Use RadioTime via Linn DS"                      // NEEDS TRANSLATION
+
+# SETTINGS_LASTFM
+"Soporte de Last.fm"
+# SETTINGS_GET_MISSING_ALBUM_ART
+"Buscar portada del album"
+# SETTINGS_USERNAME
+"Usuario"
+# SETTINGS_PASSWORD
+"Clave"
+# SETTINGS_NOW_PLAYING_SUBMISSION
+"Reproduciendo"
+# SETTINGS_SCROBBLING
+"Scrobbling"
+# SETTINGS_DISCOVERY_MODE
+"Enable `Discovery Mode' (Radio)"                // NEEDS TRANSLATION
+
+# SETTINGS_SSDP
+"Device Search"                                  // NEEDS TRANSLATION
+# SETTINGS_SSDP_MEDIA_SERVER
+"Search for UPnP Media Server"                   // NEEDS TRANSLATION
+# SETTINGS_SSDP_MEDIA_RENDERER
+"Search for UPnP Media Renderer"                 // NEEDS TRANSLATION
+# SETTINGS_SSDP_LINN_PRODUCTS
+"Search for Linn products"                       // NEEDS TRANSLATION
+# SETTINGS_SSDP_MX
+"Min. search duration"                           // NEEDS TRANSLATION
+# SETTINGS_SSDP_TIMEOUT
+"Max. search duration"                           // NEEDS TRANSLATION
+# SETTINGS_DEFAULT_RENDERER
+"Default Media Renderer"                         // NEEDS TRANSLATION
+# SETTINGS_NO_DEFAULT_RENDERER
+"- Show dialog -"                                // NEEDS TRANSLATION
+
+# QUESTION_QUIT
+"Quit Leia?"                                     // NEEDS TRANSLATION
+
+# ERROR_MESSAGE
+"Ha ocurrido un error mientras se hacia %s"
+# ERROR_CODE
+"Código de error"
+# FILE_NAME
+"Nombre de fichero"
+
+# ERROR_BROWSE_FOLDER
+"explorando la carpeta '%s'"
+# ERROR_BROWSE_ALBUM
+"leyendo enumerando las pistas del album '%s'"
+# ERROR_PLAY_LASTFM_RADIO
+"reproduciendo radio Last.fm"
+# ERROR_GET_ALBUM_COVER
+"accediendo a la portada del album"
+# ERROR_CONNECT_DEVICE
+"conectando a la unidad '%s'"
+# ERROR_HANDLE_RENDERER_EVENT
+"interpretando un evento de '%s'"
+# ERROR_OPEN_URL
+"abriendo el enlace '%s'"
+# ERROR_PLAYLIST_CLEAR
+"borrando la lista de reproducción"
+# ERROR_PLAYLIST_ADD
+"añadiendo pistas a la lista de reproducción"
+# ERROR_PLAYLIST_DELETE
+"borrando pistas de la lista de reproducción"
+# ERROR_PLAYLIST_MOVE
+"reordenando pistas de la lista de reproducción"
+# ERROR_PLAYLIST_SHUFFLE
+"ordenando aleatoriamente las pistas de la lista de reproducción"
+# ERROR_PLAYLIST_REPEAT_MODE
+"cambiando al modo de reproduccion con repetición"
+# ERROR_PLAYLIST_LOAD
+"cargando la lista de reproducción"
+# ERROR_PLAYLIST_SAVE
+"guardando la lista de reproducción"
+# ERROR_PLAY
+"inicializando el dispositivo reproductor"
+# ERROR_PAUSE
+"poniendo en pausa el dispositivo reproductor"
+# ERROR_STOP
+"deteniendo el dispositivo reproductor"
+# ERROR_SEEK_TRACK
+"cambiendo de pista"
+# ERROR_TOGGLE_MUTE
+"cambiando el modo silencioso"
+# ERROR_VOLUME
+"cambiendo el nivel de volumen"
+# ERROR_UPNP_STARTUP
+"inicializando la pila UPnP"
+# ERROR_UPNP_SEARCH
+"en la busqueda de dispositivos"
+# ERROR_SAVE_SETTINGS
+"guardando las preferencias"
+# ERROR_SAVE_LASTFM_HISTORY
+"guardando el historias de Last.fm Radio"
+# ERROR_HANDLING_ITEM
+"interpretando el objeto `%s'"
+# ERROR_DEVICE_INFO
+"obteniendo la información del dispositivo"
+# ERROR_DEVICE_INFO_FROM
+"obteniendo la información del dispositivo '%s'" 
+# ERROR_SET_RADIO_CHANNEL
+"seleccionando el canal de radio '%s'"
+# ERROR_GET_METADATA_FROM_FILE
+"getting metadata from file %s"                  // NEEDS TRANSLATION
+
+# ERRMSG_INTERNAL
+"Error interno"
+# ERRMSG_CREATE_FILE
+"No se puede crear el fichero"
+# ERRMSG_OPEN_FILE
+"Can't open file"                                // NEEDS TRANSLATION
+# ERRMSG_READ_FILE
+"Error en lectura de archivo"
+# ERRMSG_WRITE_FILE
+"Error en escritura de archivo"
+# ERRMSG_LASTFM_RADIO
+"Esta función no está disponible al usuario mientras se escucha Last.fm Radio"
+# ERRMSG_UNKNOWN_FORMAT
+"Format de datos desconocido"
+# ERRMSG_OUT_OF_MEMORY
+"Fuera de memoria"
+# ERRMSG_ITEM_ACTIVATED
+"Ese objeto no tiene ninguna acción asociada"
+# ERRMSG_UNKNOWN_FILE_FORMAT
+"Unknown file format"                            // NEEDS TRANSLATION
+

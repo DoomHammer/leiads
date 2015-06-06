@@ -1,0 +1,16 @@
+
+[Anjuta]
+Maximized=1
+Geometry=1280x728+0+25
+
+[Document Manager]
+bookmarks=<?xml version="1.0" encoding="UTF-8"?>\n<bookmarks/>\n
+
+[Execution]
+Program arguments=share=./share
+Program uri=file:///home/axel/Projekte/leiads/leiads-0.6/leiads
+Run in terminal=1
+Working directories=file:///home/axel/Projekte/leiads/leiads-0.6
+
+[Project Manager]
+Shortcut=C file:///home/axel/Projekte/leiads/leiads-0.6/leiads leiads %%%C file:///home/axel/Projekte/leiads/leiads-0.6/all all %%%C file:///home/axel/Projekte/leiads/leiads-0.6/leiads leiads %%%C file:///home/axel/Projekte/leiads/leiads-0.6/install install %%%C file:///home/axel/Projekte/leiads/leiads-0.6/clean clean %%%C file:///home/axel/Projekte/leiads/leiads-0.6/deb deb %%%C file:///home/axel/Projekte/leiads/leiads-0.6/leiads leiads %%%C file:///home/axel/Projekte/leiads/leiads-0.6/run run %%%C file:///home/axel/Projekte/leiads/leiads-0.6/clean clean %%%C file:///home/axel/Projekte/leiads/leiads-0.6/tar tar 
